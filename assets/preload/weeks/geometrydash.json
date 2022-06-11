@@ -1,0 +1,39 @@
+{
+	"storyName": "better than geometry dash fight me robtop",
+	"hideFreeplay": false,
+	"weekBackground": "stereo-madness",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"cubo",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cube-Particles",
+			"cubo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Traces-Of-The-Trail",
+			"cubo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week G"
+}

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neokb.png"><SubTexture name="neokb0000" x="1274" y="1252" width="526" height="607" frameX="-93" frameY="-7" frameWidth="670" frameHeight="614" />
+<SubTexture name="neokb0001" x="1294" y="0" width="629" height="614" frameX="-38" frameY="0" frameWidth="670" frameHeight="614" />
+<SubTexture name="neokb0002" x="1923" y="1209" width="670" height="601" frameX="0" frameY="-13" frameWidth="670" frameHeight="614" />
+<SubTexture name="neokb0003" x="0" y="1863" width="645" height="601" frameX="-25" frameY="-13" frameWidth="670" frameHeight="614" />
+<SubTexture name="neokb0004" x="1923" y="605" width="544" height="604" frameX="-79" frameY="-10" frameWidth="670" frameHeight="614" />
+<SubTexture name="neokb down0000" x="1923" y="0" width="714" height="605" frameX="-23" frameY="-3" frameWidth="744" frameHeight="608" />
+<SubTexture name="neokb down0001" x="569" y="1252" width="705" height="608" frameX="-18" frameY="0" frameWidth="744" frameHeight="608" />
+<SubTexture name="neokb down0002" x="2159" y="2464" width="724" height="579" frameX="-2" frameY="-29" frameWidth="744" frameHeight="608" />
+<SubTexture name="neokb down0003" x="1439" y="2464" width="720" height="583" frameX="-6" frameY="-25" frameWidth="744" frameHeight="608" />
+<SubTexture name="neokb down0004" x="2637" y="588" width="699" height="581" frameX="-4" frameY="-27" frameWidth="744" frameHeight="608" />
+<SubTexture name="neokb left0000" x="1294" y="614" width="561" height="611" frameX="-8" frameY="0" frameWidth="580" frameHeight="611" />
+<SubTexture name="neokb left0001" x="0" y="1252" width="569" height="611" frameX="0" frameY="0" frameWidth="580" frameHeight="611" />
+<SubTexture name="neokb left0002" x="645" y="1863" width="566" height="601" frameX="-14" frameY="-10" frameWidth="580" frameHeight="611" />
+<SubTexture name="neokb left0003" x="1211" y="1863" width="561" height="601" frameX="-19" frameY="-10" frameWidth="580" frameHeight="611" />
+<SubTexture name="neokb left0004" x="645" y="1863" width="566" height="601" frameX="-14" frameY="-9" frameWidth="580" frameHeight="611" />
+<SubTexture name="neokb right0000" x="1772" y="1863" width="765" height="596" frameX="-13" frameY="0" frameWidth="778" frameHeight="596" />
+<SubTexture name="neokb right0001" x="0" y="2464" width="723" height="586" frameX="-4" frameY="-10" frameWidth="778" frameHeight="596" />
+<SubTexture name="neokb right0002" x="723" y="2464" width="716" height="585" frameX="-2" frameY="-11" frameWidth="778" frameHeight="596" />
+<SubTexture name="neokb right0003" x="2637" y="0" width="712" height="588" frameX="-6" frameY="-8" frameWidth="778" frameHeight="596" />
+<SubTexture name="neokb up0000" x="0" y="0" width="647" height="627" frameX="0" frameY="0" frameWidth="647" frameHeight="627" />
+<SubTexture name="neokb up0001" x="647" y="0" width="647" height="627" frameX="0" frameY="0" frameWidth="647" frameHeight="627" />
+<SubTexture name="neokb up0002" x="0" y="627" width="633" height="625" frameX="-7" frameY="-2" frameWidth="647" frameHeight="627" />
+<SubTexture name="neokb up0003" x="633" y="627" width="630" height="625" frameX="-10" frameY="-2" frameWidth="647" frameHeight="627" />
+<SubTexture name="neokb up0004" x="0" y="627" width="633" height="625" frameX="-7" frameY="-2" frameWidth="647" frameHeight="627" />
+</TextureAtlas>

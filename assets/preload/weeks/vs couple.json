@@ -1,0 +1,31 @@
+{
+	"storyName": "In FunkedTale",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Coupledoggle",
+			"Bf-Gf-duet",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"Pico",
+		"Bf",
+		"GF"
+	],
+	"weekName": "bfv"
+}

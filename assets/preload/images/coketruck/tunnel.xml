@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tunnel.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tunnel0000" x="0" y="0" width="2684" height="1829" frameX="0" frameY="0" frameWidth="4139" frameHeight="1829"/>
+	<SubTexture name="tunnel0001" x="0" y="1829" width="11" height="9" frameX="-123" frameY="-39" frameWidth="4139" frameHeight="1829"/>
+</TextureAtlas>

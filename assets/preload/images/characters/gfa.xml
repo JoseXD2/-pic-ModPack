@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfa.png">
+	<!-- Optimized by NT846 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="5" y="5" width="442" height="686" frameX="-15" frameY="0" frameWidth="471" frameHeight="691"/>
+	<SubTexture name="Idle0000" x="457" y="5" width="468" height="695" frameX="0" frameY="-10" frameWidth="468" frameHeight="709"/>
+	<SubTexture name="Left0000" x="935" y="5" width="508" height="701" frameX="-18" frameY="0" frameWidth="533" frameHeight="701"/>
+	<SubTexture name="Right0000" x="5" y="716" width="473" height="693" frameX="-23" frameY="-3" frameWidth="501" frameHeight="696"/>
+	<SubTexture name="Up0000" x="488" y="716" width="416" height="674" frameX="-25" frameY="0" frameWidth="441" frameHeight="674"/>
+</TextureAtlas>

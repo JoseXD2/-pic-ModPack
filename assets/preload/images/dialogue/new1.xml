@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CUT1.png">
+	<SubTexture name="cut0000" x="0" y="0" width="1920" height="1080" frameX="0" frameY="-5" frameWidth="554" frameHeight="554"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Phase3Static.png"><SubTexture name="Phase3Static instance 0000" x="0" y="0" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0001" x="392" y="0" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0002" x="0" y="220" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0003" x="392" y="220" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0004" x="0" y="440" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0005" x="392" y="440" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0006" x="784" y="0" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0007" x="784" y="220" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0008" x="784" y="440" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+</TextureAtlas>

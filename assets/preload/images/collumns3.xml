@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="collumns3.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="collumns30000" x="1" y="1" width="3374" height="1519"/>
+	<SubTexture name="collumns30001" x="1" y="1" width="3374" height="1519"/>
+	<SubTexture name="collumns30002" x="3376" y="1" width="3374" height="1519"/>
+	<SubTexture name="collumns30003" x="3376" y="1" width="3374" height="1519"/>
+	<SubTexture name="collumns30004" x="1" y="1521" width="3374" height="1519"/>
+	<SubTexture name="collumns30005" x="1" y="1521" width="3374" height="1519"/>
+	<SubTexture name="collumns30006" x="3376" y="1521" width="3374" height="1519"/>
+	<SubTexture name="collumns30007" x="3376" y="1521" width="3374" height="1519"/>
+	<SubTexture name="collumns30008" x="1" y="3041" width="3374" height="1519"/>
+	<SubTexture name="collumns30009" x="1" y="3041" width="3374" height="1519"/>
+	<SubTexture name="collumns30010" x="1" y="3041" width="3374" height="1519"/>
+	<SubTexture name="collumns30011" x="1" y="3041" width="3374" height="1519"/>
+	<SubTexture name="collumns30012" x="3376" y="3041" width="3374" height="1519"/>
+	<SubTexture name="collumns30013" x="3376" y="3041" width="3374" height="1519"/>
+</TextureAtlas>

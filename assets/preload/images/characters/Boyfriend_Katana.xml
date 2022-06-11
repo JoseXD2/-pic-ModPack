@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_Katana.png">
+	<SubTexture name="BF NOTE DOWN0000" x="1768" y="0" width="500" height="357"/>
+	<SubTexture name="BF NOTE DOWN0001" x="1768" y="0" width="500" height="357"/>
+	<SubTexture name="BF NOTE DOWN0002" x="1419" y="979" width="491" height="361"/>
+	<SubTexture name="BF NOTE DOWN0003" x="1419" y="979" width="491" height="361"/>
+	<SubTexture name="BF NOTE DOWN MISS0000" x="1768" y="0" width="500" height="357"/>
+	<SubTexture name="BF NOTE DOWN MISS0001" x="1768" y="0" width="500" height="357"/>
+	<SubTexture name="BF NOTE DOWN MISS0002" x="1419" y="979" width="491" height="361"/>
+	<SubTexture name="BF NOTE DOWN MISS0003" x="1419" y="979" width="491" height="361"/>
+	<SubTexture name="BF NOTE LEFT0000" x="0" y="2028" width="482" height="406"/>
+	<SubTexture name="BF NOTE LEFT0001" x="0" y="2028" width="482" height="406"/>
+	<SubTexture name="BF NOTE LEFT0002" x="1770" y="356" width="488" height="405"/>
+	<SubTexture name="BF NOTE LEFT0003" x="1770" y="356" width="488" height="405"/>
+	<SubTexture name="BF NOTE LEFT MISS0000" x="0" y="2028" width="482" height="406"/>
+	<SubTexture name="BF NOTE LEFT MISS0001" x="0" y="2028" width="482" height="406"/>
+	<SubTexture name="BF NOTE LEFT MISS0002" x="1770" y="356" width="488" height="405"/>
+	<SubTexture name="BF NOTE LEFT MISS0003" x="1770" y="356" width="488" height="405"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="0" y="0" width="637" height="405"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="0" y="0" width="637" height="405"/>
+	<SubTexture name="BF NOTE RIGHT0002" x="637" y="0" width="622" height="407"/>
+	<SubTexture name="BF NOTE RIGHT0003" x="637" y="0" width="622" height="407"/>
+	<SubTexture name="BF NOTE RIGHT MISS0000" x="0" y="0" width="637" height="405"/>
+	<SubTexture name="BF NOTE RIGHT MISS0001" x="0" y="0" width="637" height="405"/>
+	<SubTexture name="BF NOTE RIGHT MISS0002" x="637" y="0" width="622" height="407"/>
+	<SubTexture name="BF NOTE RIGHT MISS0003" x="637" y="0" width="622" height="407"/>
+	<SubTexture name="BF NOTE UP0000" x="1529" y="1340" width="482" height="446"/>
+	<SubTexture name="BF NOTE UP0001" x="1529" y="1340" width="482" height="446"/>
+	<SubTexture name="BF NOTE UP0002" x="1020" y="1720" width="476" height="441"/>
+	<SubTexture name="BF NOTE UP0003" x="1020" y="1720" width="476" height="441"/>
+	<SubTexture name="BF NOTE UP MISS0000" x="1529" y="1340" width="482" height="446"/>
+	<SubTexture name="BF NOTE UP MISS0001" x="1529" y="1340" width="482" height="446"/>
+	<SubTexture name="BF NOTE UP MISS0002" x="1020" y="1720" width="476" height="441"/>
+	<SubTexture name="BF NOTE UP MISS0003" x="1020" y="1720" width="476" height="441"/>
+	<SubTexture name="bf pre attack0000" x="907" y="979" width="512" height="366"/>
+	<SubTexture name="bf pre attack0001" x="1235" y="606" width="513" height="373"/>
+	<SubTexture name="bf pre attack0002" x="0" y="1652" width="510" height="377"/>
+	<SubTexture name="bf pre attack0003" x="510" y="1639" width="510" height="375"/>
+	<SubTexture name="bf pre attack0004" x="1020" y="1345" width="509" height="375"/>
+	<SubTexture name="boyfriend attack0000" x="616" y="407" width="619" height="389" frameX="-0" frameY="-239" frameWidth="619" frameHeight="389"/>
+	<SubTexture name="boyfriend attack0001" x="0" y="405" width="616" height="628" frameX="-3" frameY="0" frameWidth="616" frameHeight="628"/>
+	<SubTexture name="boyfriend attack0002" x="409" y="1033" width="498" height="606" frameX="-121" frameY="-22" frameWidth="498" frameHeight="606"/>
+	<SubTexture name="boyfriend attack0003" x="1259" y="0" width="509" height="606" frameX="-110" frameY="-22" frameWidth="509" frameHeight="606"/>
+	<SubTexture name="boyfriend attack0004" x="0" y="1033" width="409" height="619" frameX="-210" frameY="-9" frameWidth="409" frameHeight="619"/>
+</TextureAtlas>

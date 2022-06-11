@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Taeyai_fly.png">
+<!-- Created with Adobe Animate version 19.2.1.408 -->
+<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TaeYai fly 0000" x="5" y="5" width="697" height="802" frameX="0" frameY="-14" frameWidth="697" frameHeight="816"/>
+	<SubTexture name="TaeYai fly 0001" x="712" y="5" width="697" height="809" frameX="0" frameY="-4" frameWidth="697" frameHeight="816"/>
+	<SubTexture name="TaeYai fly 0002" x="712" y="5" width="697" height="809" frameX="0" frameY="-4" frameWidth="697" frameHeight="816"/>
+	<SubTexture name="TaeYai fly I do0000" x="2948" y="0" width="697" height="813" frameX="0" frameY="-34" frameWidth="697" frameHeight="884"/>
+	<SubTexture name="TaeYai fly down0000" x="5" y="822" width="697" height="756" frameX="0" frameY="-4" frameWidth="697" frameHeight="760"/>
+	<SubTexture name="TaeYai fly down0001" x="1419" y="5" width="697" height="750" frameX="0" frameY="-7" frameWidth="697" frameHeight="760"/>
+	<SubTexture name="TaeYai fly down0002" x="1419" y="5" width="697" height="745" frameX="0" frameY="-5" frameWidth="697" frameHeight="760"/>
+	<SubTexture name="TaeYai fly left0000" x="712" y="822" width="697" height="811" frameX="0" frameY="0" frameWidth="697" frameHeight="815"/>
+	<SubTexture name="TaeYai fly left0001" x="1368" y="822" width="697" height="807" frameX="0" frameY="-7" frameWidth="697" frameHeight="815"/>
+	<SubTexture name="TaeYai fly left0002" x="1368" y="822" width="697" height="806" frameX="0" frameY="-9" frameWidth="697" frameHeight="815"/>
+	<SubTexture name="TaeYai fly right0000" x="2126" y="5" width="703" height="764"/>
+	<SubTexture name="TaeYai fly right0001" x="2126" y="5" width="703" height="762" frameX="0" frameY="-2" frameWidth="703" frameHeight="764"/>
+	<SubTexture name="TaeYai fly right0002" x="2126" y="779" width="703" height="758" frameX="0" frameY="-6" frameWidth="703" frameHeight="764"/>
+	<SubTexture name="TaeYai fly up0000" x="2024" y="1553" width="697" height="832" frameX="0" frameY="0" frameWidth="697" frameHeight="843"/>
+	<SubTexture name="TaeYai fly up0001" x="2839" y="5" width="697" height="822" frameX="0" frameY="-18" frameWidth="697" frameHeight="843"/>
+	<SubTexture name="TaeYai fly up0002" x="2839" y="5" width="697" height="826" frameX="0" frameY="-15" frameWidth="697" frameHeight="843"/>
+</TextureAtlas>

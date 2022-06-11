@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Normal instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				161,
+				-40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Normal instance ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Transformation instance "
+		},
+		{
+			"offsets": [
+				23,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Normal instance "
+		},
+		{
+			"offsets": [
+				190,
+				150
+			],
+			"loop": true,
+			"fps": 47,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Oblivion Bendy instance"
+		},
+		{
+			"offsets": [
+				0,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "evil",
+			"indices": [],
+			"name": "Transformation instance "
+		},
+		{
+			"offsets": [
+				60,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up Oblivion instance 1000"
+		},
+		{
+			"offsets": [
+				120,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right Oblivion instance 100"
+		},
+		{
+			"offsets": [
+				230,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left Oblivion instance 100"
+		},
+		{
+			"offsets": [
+				120,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down Oblivion instance 1000"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-40
+			],
+			"anim": "you",
+			"fps": 24,
+			"name": "You've got this instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				80
+			],
+			"anim": "ugh",
+			"fps": 24,
+			"name": "ugh lowblow instance 100",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BendyNegr",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "ben",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		-30
+	],
+	"sing_duration": 5,
+	"scale": 1.3
+}

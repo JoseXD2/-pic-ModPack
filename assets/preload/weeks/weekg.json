@@ -1,0 +1,57 @@
+{
+	"storyName": "Sweet Tooth",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Reunion",
+			"gardead",
+			[
+				0,
+				255,
+				133
+			]
+		],
+		[
+			"Eased",
+			"gardead",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sweettooth",
+			"gardead",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Stay",
+			"gardead",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"garcello",
+		"bf",
+		"gf"
+	],
+	"weekName": "Garcello Week"
+}

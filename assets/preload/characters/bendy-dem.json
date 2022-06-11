@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				499,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance "
+		},
+		{
+			"offsets": [
+				37,
+				314
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance "
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DeathBendy instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-126,
+				-393
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-105,
+				70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FUCK YOU instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-224,
+				2630
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "Intro instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				414,
+				-149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bay",
+			"indices": [],
+			"name": "bye bitch instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "idle-Alt",
+			"fps": 24,
+			"name": "DeathBendy instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-1821
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "DeathBendy instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "bendy-dem/NMB",
+	"position": [
+		-240,
+		-130
+	],
+	"healthicon": "bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		2,
+		4,
+		10
+	],
+	"camera_position": [
+		20,
+		-340
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4
+}

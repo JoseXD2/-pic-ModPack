@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tankman.png"><SubTexture name="tankman idle0000" x="1686" y="0" width="521" height="536" frameX="-28" frameY="-22" frameWidth="551" frameHeight="560" />
+<SubTexture name="tankman right0000" x="543" y="600" width="560" height="564" frameX="-2" frameY="-2" frameWidth="564" frameHeight="568" />
+<SubTexture name="tankman right0001" x="1103" y="600" width="553" height="558" frameX="-9" frameY="-8" frameWidth="564" frameHeight="568" />
+<SubTexture name="tankman left0000" x="1150" y="0" width="536" height="580" frameX="-40" frameY="-3" frameWidth="578" frameHeight="585" />
+<SubTexture name="tankman left0001" x="0" y="600" width="543" height="569" frameX="-19" frameY="-14" frameWidth="578" frameHeight="585" />
+<SubTexture name="tankman up0000" x="585" y="0" width="565" height="593" frameX="-21" frameY="-9" frameWidth="589" frameHeight="604" />
+<SubTexture name="tankman up0001" x="0" y="0" width="585" height="600" frameX="-2" frameY="-2" frameWidth="589" frameHeight="604" />
+<SubTexture name="tankman down0000" x="1686" y="536" width="477" height="506" frameX="-6" frameY="-2" frameWidth="485" frameHeight="510" />
+<SubTexture name="tankman down0001" x="0" y="1169" width="481" height="487" frameX="-2" frameY="-21" frameWidth="485" frameHeight="510" />
+</TextureAtlas>

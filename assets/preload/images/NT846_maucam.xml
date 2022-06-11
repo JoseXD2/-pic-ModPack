@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NT846_Blue.png">
+	<!-- Optimized by NT846 -->
+	<SubTexture name="AlarmOrange instance 0000" x="0" y="0" width="913" height="503"/>
+	<SubTexture name="AlarmOrange instance 0001" x="0" y="0" width="913" height="503"/>
+	<SubTexture name="AlarmOrange instance 0002" x="0" y="0" width="913" height="503"/>
+	<SubTexture name="AlarmOrange instance 0003" x="0" y="0" width="913" height="503"/>
+	<SubTexture name="AlarmOrange instance 0004" x="0" y="0" width="913" height="503"/>
+	<SubTexture name="AlarmOrange instance 0005" x="0" y="0" width="913" height="503"/>
+	<SubTexture name="AlarmOrange instance 0006" x="0" y="0" width="913" height="503"/>
+</TextureAtlas>

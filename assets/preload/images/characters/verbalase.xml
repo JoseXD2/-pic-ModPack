@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="verbalase.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="verbalase down 0000" x="3" y="3" width="679" height="287" frameX="0" frameY="-52" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0001" x="3" y="3" width="679" height="287" frameX="0" frameY="-52" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0002" x="685" y="3" width="641" height="326" frameX="-19" frameY="-13" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0003" x="685" y="3" width="641" height="326" frameX="-19" frameY="-13" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0004" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0005" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0006" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0007" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0008" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0009" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0010" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0011" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0012" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0013" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase down 0014" x="1329" y="3" width="600" height="338" frameX="-39" frameY="0" frameWidth="679" frameHeight="339"/>
+	<SubTexture name="verbalase idle 0000" x="1932" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0001" x="2273" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0002" x="2614" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0003" x="2955" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0004" x="3296" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0005" x="3637" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0006" x="3" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0007" x="344" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0008" x="685" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0009" x="1026" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0010" x="1367" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0011" x="1708" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0012" x="2049" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0013" x="2390" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0014" x="2390" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0015" x="2049" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0016" x="1708" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0017" x="1367" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0018" x="1026" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0019" x="685" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0020" x="344" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0021" x="3" y="344" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0022" x="3637" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0023" x="3296" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0024" x="2955" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0025" x="2614" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0026" x="2273" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase idle 0027" x="1932" y="3" width="338" height="338"/>
+	<SubTexture name="verbalase left 0000" x="2731" y="344" width="642" height="336"/>
+	<SubTexture name="verbalase left 0001" x="2731" y="344" width="642" height="336"/>
+	<SubTexture name="verbalase left 0002" x="3376" y="344" width="615" height="336" frameX="-27" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0003" x="3376" y="344" width="615" height="336" frameX="-27" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0004" x="3" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0005" x="3" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0006" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0007" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0008" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0009" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0010" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0011" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0012" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0013" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0014" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0015" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0016" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0017" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0018" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase left 0019" x="606" y="685" width="600" height="336" frameX="-42" frameY="0" frameWidth="642" frameHeight="336"/>
+	<SubTexture name="verbalase right 0000" x="1209" y="685" width="657" height="338"/>
+	<SubTexture name="verbalase right 0001" x="1209" y="685" width="657" height="338"/>
+	<SubTexture name="verbalase right 0002" x="1869" y="685" width="621" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0003" x="1869" y="685" width="621" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0004" x="2493" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0005" x="2493" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0006" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0007" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0008" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0009" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0010" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0011" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0012" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0013" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0014" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0015" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0016" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0017" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0018" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0019" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase right 0020" x="3096" y="685" width="600" height="338" frameX="0" frameY="0" frameWidth="657" frameHeight="338"/>
+	<SubTexture name="verbalase up 0000" x="3" y="1026" width="529" height="468" frameX="-36" frameY="0" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0001" x="3" y="1026" width="529" height="468" frameX="-36" frameY="0" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0002" x="535" y="1026" width="582" height="413" frameX="-9" frameY="-55" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0003" x="535" y="1026" width="582" height="413" frameX="-9" frameY="-55" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0004" x="1120" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0005" x="1120" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0006" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0007" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0008" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0009" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0010" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0011" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0012" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0013" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0014" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0015" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0016" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0017" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0018" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+	<SubTexture name="verbalase up 0019" x="1723" y="1026" width="600" height="405" frameX="0" frameY="-63" frameWidth="600" frameHeight="468"/>
+</TextureAtlas>

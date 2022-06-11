@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nightmare Sans Stage.png">
+<SubTexture name="Normal instance 10000" x="0" y="0" width="1923" height="1085" frameX="0" frameY="0" frameWidth="1932" frameHeight="1088" />
+<SubTexture name="sdfs instance 10000" x="0" y="0" width="1923" height="1085" frameX="0" frameY="0" frameWidth="965" frameHeight="543" />
+</TextureAtlas>

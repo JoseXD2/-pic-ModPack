@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EduardoCUTSCENE.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EduardoPunch0000" x="1724.8" y="820.4" width="246" height="267.6" pivotX="-182.9" pivotY="-62.55" frameX="-0.4" frameY="-6.8" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0001" x="1724.8" y="820.4" width="246" height="267.6" frameX="-0.4" frameY="-6.8" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0002" x="1231.6" y="820.4" width="244.4" height="274" frameX="-2" frameY="-0.4" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0003" x="1231.6" y="820.4" width="244.4" height="274" frameX="-2" frameY="-0.4" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0004" x="2961.6" y="545.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0005" x="2961.6" y="545.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0006" x="2713.2" y="0" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0007" x="2713.2" y="0" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0008" x="985.6" y="820.4" width="245.6" height="272.8" frameX="-0.8" frameY="-1.6" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0009" x="985.6" y="820.4" width="245.6" height="272.8" frameX="-0.8" frameY="-1.6" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0010" x="1480.8" y="547.2" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0011" x="2960" y="0" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0012" x="0" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0013" x="246.4" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0014" x="2713.2" y="272.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0015" x="2960" y="272.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0016" x="492.8" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0017" x="739.2" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0018" x="1480.8" y="274.4" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0019" x="0" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0020" x="985.6" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0021" x="985.6" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0022" x="246.8" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0023" x="246.8" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0024" x="1232" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0025" x="1727.2" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0026" x="493.6" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0027" x="493.6" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0028" x="1727.2" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0029" x="1973.6" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0030" x="740.4" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0031" x="740.4" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0032" x="2220" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0033" x="2220" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0034" x="987.2" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0035" x="987.2" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0036" x="2220" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0037" x="2220" y="547.6" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0038" x="1234" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0039" x="1234" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0040" x="2466.4" y="818.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0041" x="2466.4" y="818.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0042" x="1727.6" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0043" x="1727.6" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0044" x="2712.8" y="818.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0045" x="2959.2" y="818.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0046" x="1974.4" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0047" x="1974.4" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0048" x="1478.4" y="820" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0049" x="0" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0050" x="1974.4" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0051" x="2221.2" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0052" x="0" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0053" x="246.4" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0054" x="2468" y="545.6" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0055" x="1974.4" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0056" x="1478.4" y="820" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0057" x="1478.4" y="820" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0058" x="1974.4" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0059" x="2468" y="545.6" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0060" x="246.4" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0061" x="0" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0062" x="2221.2" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0063" x="2221.2" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0064" x="0" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0065" x="0" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0066" x="2221.2" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0067" x="2714.8" y="545.6" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0068" x="492.8" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0069" x="492.8" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0070" x="2714.8" y="545.6" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0071" x="2714.8" y="545.6" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0072" x="739.2" y="820.4" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0073" x="1478.4" y="820" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0074" x="1974.4" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0075" x="1974.4" y="274.8" width="246.4" height="272.4" frameX="0" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0076" x="1478.4" y="820" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0077" x="1478.4" y="820" width="246" height="272.4" frameX="-0.4" frameY="-2" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0078" x="1480.8" y="0" width="246.4" height="274" frameX="0" frameY="-0.4" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0079" x="1480.8" y="0" width="246.4" height="274" frameX="0" frameY="-0.4" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0080" x="1727.6" y="0" width="246" height="274.4" frameX="-0.4" frameY="0" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0081" x="1974" y="0" width="246" height="274.4" frameX="-0.4" frameY="0" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0082" x="0" y="0" width="246.4" height="274.4"/>
+	<SubTexture name="EduardoPunch0083" x="0" y="0" width="246.4" height="274.4"/>
+	<SubTexture name="EduardoPunch0084" x="2220.4" y="0" width="246" height="274.4" frameX="-0.4" frameY="0" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0085" x="2220.4" y="0" width="246" height="274.4" frameX="-0.4" frameY="0" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0086" x="246.8" y="0" width="246.4" height="274.4"/>
+	<SubTexture name="EduardoPunch0087" x="493.6" y="0" width="246.4" height="274.4"/>
+	<SubTexture name="EduardoPunch0088" x="2220.4" y="0" width="246" height="274.4" frameX="-0.4" frameY="0" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0089" x="2220.4" y="0" width="246" height="274.4" frameX="-0.4" frameY="0" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0090" x="493.6" y="0" width="246.4" height="274.4"/>
+	<SubTexture name="EduardoPunch0091" x="740.4" y="0" width="246.4" height="274.4"/>
+	<SubTexture name="EduardoPunch0092" x="2466.8" y="0" width="246" height="274.4" frameX="-0.4" frameY="0" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0093" x="2466.8" y="0" width="246" height="274.4" frameX="-0.4" frameY="0" frameWidth="246.4" frameHeight="274.4"/>
+	<SubTexture name="EduardoPunch0094" x="987.2" y="0" width="246.4" height="274.4"/>
+	<SubTexture name="EduardoPunch0095" x="1234" y="0" width="246.4" height="274.4"/>
+</TextureAtlas>

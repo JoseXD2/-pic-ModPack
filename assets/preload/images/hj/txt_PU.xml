@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="txt_PU.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="txt_PU0000" x="0" y="0" width="392" height="612" frameX="-7" frameY="0" frameWidth="404" frameHeight="612"/>
+	<SubTexture name="txt_PU0001" x="0" y="0" width="392" height="612" frameX="-7" frameY="0" frameWidth="404" frameHeight="612"/>
+	<SubTexture name="txt_PU0002" x="394" y="0" width="404" height="545" frameX="0" frameY="-33" frameWidth="404" frameHeight="612"/>
+	<SubTexture name="txt_PU0003" x="394" y="0" width="404" height="545" frameX="0" frameY="-33" frameWidth="404" frameHeight="612"/>
+</TextureAtlas>

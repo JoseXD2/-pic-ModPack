@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PibbyTwilight_SM.png"><SubTexture name="Twi_Down_MONSTER instance 0000" x="662" y="748" width="968" height="548" frameX="-14" frameY="0" frameWidth="982" frameHeight="548" />
+<SubTexture name="Twi_Down_SAD instance 0000" x="1419" y="1298" width="755" height="466" frameX="-126" frameY="-100" frameWidth="905" frameHeight="623" />
+<SubTexture name="Twi_Idle_MONSTER instance 0000" x="832" y="1298" width="587" height="498" frameX="-7" frameY="-3" frameWidth="614" frameHeight="501" />
+<SubTexture name="Twi_Idle_SAD instance 0000" x="1663" y="0" width="573" height="524" frameX="-6" frameY="-3" frameWidth="603" frameHeight="527" />
+<SubTexture name="Twi_Left_MONSTER instance 0000" x="0" y="748" width="662" height="550" frameX="0" frameY="-3" frameWidth="666" frameHeight="553" />
+<SubTexture name="Twi_Left_SAD instance 0000" x="1663" y="524" width="476" height="518" frameX="-2" frameY="-1" frameWidth="478" frameHeight="529" />
+<SubTexture name="Twi_Right_MONSTER instance 0000" x="0" y="1298" width="832" height="501" frameX="0" frameY="0" frameWidth="876" frameHeight="502" />
+<SubTexture name="Twi_Right_SAD instance 0000" x="986" y="0" width="677" height="564" frameX="-48" frameY="-2" frameWidth="751" frameHeight="566" />
+<SubTexture name="Twi_Up_MONSTER instance 0000" x="0" y="0" width="464" height="748" frameX="0" frameY="-11" frameWidth="465" frameHeight="765" />
+<SubTexture name="Twi_Up_SAD instance 0000" x="464" y="0" width="522" height="589" frameX="-42" frameY="-68" frameWidth="585" frameHeight="684" />
+</TextureAtlas>

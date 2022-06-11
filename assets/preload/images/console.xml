@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="console.png">
+<SubTexture name="Background Moving0000" x="0" y="0" width="800" height="405" frameX="0" frameY="0" frameWidth="800" frameHeight="405" />
+<SubTexture name="Background Moving0001" x="0" y="0" width="800" height="405" frameX="0" frameY="0" frameWidth="800" frameHeight="405" />
+<SubTexture name="Background Moving0002" x="800" y="0" width="800" height="405" frameX="0" frameY="0" frameWidth="800" frameHeight="405" />
+<SubTexture name="Background Moving0003" x="800" y="0" width="800" height="405" frameX="0" frameY="0" frameWidth="800" frameHeight="405" />
+<SubTexture name="Background Moving0004" x="0" y="405" width="800" height="405" frameX="0" frameY="0" frameWidth="800" frameHeight="405" />
+<SubTexture name="Background Moving0005" x="0" y="405" width="800" height="405" frameX="0" frameY="0" frameWidth="800" frameHeight="405" />
+<SubTexture name="Background Moving0006" x="800" y="405" width="800" height="405" frameX="0" frameY="0" frameWidth="800" frameHeight="405" />
+<SubTexture name="Background Moving0007" x="800" y="405" width="800" height="405" frameX="0" frameY="0" frameWidth="800" frameHeight="405" />
+</TextureAtlas>

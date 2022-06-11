@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cubo.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cuboABAJO0000" x="0" y="0" width="519" height="422" frameX="0" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0001" x="0" y="0" width="519" height="422" frameX="0" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0002" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0003" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0004" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0005" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0006" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0007" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0008" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0009" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0010" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0011" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0012" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0013" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboABAJO0014" x="519" y="0" width="520" height="418" frameX="-3" frameY="0" frameWidth="523" frameHeight="422"/>
+	<SubTexture name="cuboARRIBA0000" x="1039" y="0" width="540" height="371"/>
+	<SubTexture name="cuboARRIBA0001" x="1039" y="0" width="540" height="371"/>
+	<SubTexture name="cuboARRIBA0002" x="1579" y="0" width="530" height="362" frameX="-3" frameY="0" frameWidth="540" frameHeight="371"/>
+	<SubTexture name="cuboARRIBA0003" x="1579" y="0" width="530" height="362" frameX="-3" frameY="0" frameWidth="540" frameHeight="371"/>
+	<SubTexture name="cuboARRIBA0004" x="1579" y="0" width="530" height="362" frameX="-3" frameY="0" frameWidth="540" frameHeight="371"/>
+	<SubTexture name="cuboARRIBA0005" x="1579" y="0" width="530" height="362" frameX="-3" frameY="0" frameWidth="540" frameHeight="371"/>
+	<SubTexture name="cuboARRIBA0006" x="1579" y="0" width="530" height="362" frameX="-3" frameY="0" frameWidth="540" frameHeight="371"/>
+	<SubTexture name="cuboARRIBA0007" x="1579" y="0" width="530" height="362" frameX="-3" frameY="0" frameWidth="540" frameHeight="371"/>
+	<SubTexture name="cuboARRIBA0008" x="1579" y="0" width="530" height="362" frameX="-3" frameY="0" frameWidth="540" frameHeight="371"/>
+	<SubTexture name="cuboARRIBA0009" x="1579" y="0" width="530" height="362" frameX="-3" frameY="0" frameWidth="540" frameHeight="371"/>
+	<SubTexture name="cuboDERECHA0000" x="2109" y="0" width="547" height="387"/>
+	<SubTexture name="cuboDERECHA0001" x="2109" y="0" width="547" height="387"/>
+	<SubTexture name="cuboDERECHA0002" x="2656" y="0" width="546" height="385" frameX="-1" frameY="0" frameWidth="547" frameHeight="387"/>
+	<SubTexture name="cuboDERECHA0003" x="2656" y="0" width="546" height="385" frameX="-1" frameY="0" frameWidth="547" frameHeight="387"/>
+	<SubTexture name="cuboDERECHA0004" x="2656" y="0" width="546" height="385" frameX="-1" frameY="0" frameWidth="547" frameHeight="387"/>
+	<SubTexture name="cuboDERECHA0005" x="2656" y="0" width="546" height="385" frameX="-1" frameY="0" frameWidth="547" frameHeight="387"/>
+	<SubTexture name="cuboDERECHA0006" x="2656" y="0" width="546" height="385" frameX="-1" frameY="0" frameWidth="547" frameHeight="387"/>
+	<SubTexture name="cuboDERECHA0007" x="2656" y="0" width="546" height="385" frameX="-1" frameY="0" frameWidth="547" frameHeight="387"/>
+	<SubTexture name="cuboDERECHA0008" x="2656" y="0" width="546" height="385" frameX="-1" frameY="0" frameWidth="547" frameHeight="387"/>
+	<SubTexture name="cuboDERECHA0009" x="2656" y="0" width="546" height="385" frameX="-1" frameY="0" frameWidth="547" frameHeight="387"/>
+	<SubTexture name="cuboIDLE0000" x="3202" y="0" width="601" height="305" frameX="0" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0001" x="3202" y="0" width="601" height="305" frameX="0" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0002" x="0" y="422" width="646" height="357" frameX="-5" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0003" x="0" y="422" width="646" height="357" frameX="-5" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0004" x="646" y="422" width="622" height="333" frameX="-7" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0005" x="646" y="422" width="622" height="333" frameX="-7" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0006" x="1268" y="422" width="592" height="305" frameX="-8" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0007" x="1268" y="422" width="592" height="305" frameX="-8" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0008" x="1860" y="422" width="571" height="305" frameX="-8" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0009" x="1860" y="422" width="571" height="305" frameX="-8" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0010" x="2431" y="422" width="574" height="305" frameX="-8" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0011" x="2431" y="422" width="574" height="305" frameX="-8" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0012" x="2431" y="422" width="574" height="305" frameX="-8" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0013" x="2431" y="422" width="574" height="305" frameX="-8" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIDLE0014" x="2431" y="422" width="574" height="305" frameX="-8" frameY="0" frameWidth="651" frameHeight="357"/>
+	<SubTexture name="cuboIZQUIERDA0000" x="3005" y="422" width="492" height="409"/>
+	<SubTexture name="cuboIZQUIERDA0001" x="3005" y="422" width="492" height="409"/>
+	<SubTexture name="cuboIZQUIERDA0002" x="3497" y="422" width="476" height="400" frameX="-9" frameY="0" frameWidth="492" frameHeight="409"/>
+	<SubTexture name="cuboIZQUIERDA0003" x="3497" y="422" width="476" height="400" frameX="-9" frameY="0" frameWidth="492" frameHeight="409"/>
+	<SubTexture name="cuboIZQUIERDA0004" x="3497" y="422" width="476" height="400" frameX="-9" frameY="0" frameWidth="492" frameHeight="409"/>
+	<SubTexture name="cuboIZQUIERDA0005" x="3497" y="422" width="476" height="400" frameX="-9" frameY="0" frameWidth="492" frameHeight="409"/>
+	<SubTexture name="cuboIZQUIERDA0006" x="3497" y="422" width="476" height="400" frameX="-9" frameY="0" frameWidth="492" frameHeight="409"/>
+	<SubTexture name="cuboIZQUIERDA0007" x="3497" y="422" width="476" height="400" frameX="-9" frameY="0" frameWidth="492" frameHeight="409"/>
+	<SubTexture name="cuboIZQUIERDA0008" x="3497" y="422" width="476" height="400" frameX="-9" frameY="0" frameWidth="492" frameHeight="409"/>
+	<SubTexture name="cuboIZQUIERDA0009" x="3497" y="422" width="476" height="400" frameX="-9" frameY="0" frameWidth="492" frameHeight="409"/>
+	<SubTexture name="cuboPINCHO0000" x="0" y="831" width="376" height="305" frameX="-171" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0001" x="0" y="831" width="376" height="305" frameX="-171" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0002" x="376" y="831" width="376" height="305" frameX="-171" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0003" x="376" y="831" width="376" height="305" frameX="-171" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0004" x="752" y="831" width="398" height="305" frameX="-149" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0005" x="752" y="831" width="398" height="305" frameX="-149" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0006" x="1150" y="831" width="460" height="305" frameX="-87" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0007" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0008" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0009" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0010" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0011" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0012" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0013" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0014" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0015" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0016" x="1610" y="831" width="506" height="305" frameX="-41" frameY="-45" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0017" x="2116" y="831" width="514" height="318" frameX="-32" frameY="-37" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0018" x="2630" y="831" width="524" height="343" frameX="-24" frameY="-19" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0019" x="2630" y="831" width="524" height="343" frameX="-24" frameY="-19" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0020" x="3154" y="831" width="541" height="364" frameX="-7" frameY="-4" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0021" x="0" y="1195" width="548" height="371" frameX="0" frameY="0" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0022" x="548" y="1195" width="548" height="371" frameX="0" frameY="0" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0023" x="548" y="1195" width="548" height="371" frameX="0" frameY="0" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0024" x="548" y="1195" width="548" height="371" frameX="0" frameY="0" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0025" x="1096" y="1195" width="539" height="343" frameX="-9" frameY="-19" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0026" x="1096" y="1195" width="539" height="343" frameX="-9" frameY="-19" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0027" x="1635" y="1195" width="527" height="308" frameX="-20" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0028" x="1635" y="1195" width="527" height="308" frameX="-20" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0029" x="2162" y="1195" width="602" height="309" frameX="-36" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0030" x="2764" y="1195" width="554" height="309" frameX="-41" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0031" x="2764" y="1195" width="554" height="309" frameX="-41" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0032" x="3318" y="1195" width="616" height="309" frameX="-167" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0033" x="0" y="1566" width="637" height="309" frameX="-167" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0034" x="637" y="1566" width="737" height="309" frameX="-167" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0035" x="1374" y="1566" width="853" height="309" frameX="-167" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0036" x="2227" y="1566" width="962" height="309" frameX="-167" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0037" x="0" y="1875" width="1073" height="309" frameX="-167" frameY="-43" frameWidth="1343" frameHeight="371"/>
+	<SubTexture name="cuboPINCHO0038" x="1073" y="1875" width="1176" height="309" frameX="-167" frameY="-43" frameWidth="1343" frameHeight="371"/>
+</TextureAtlas>

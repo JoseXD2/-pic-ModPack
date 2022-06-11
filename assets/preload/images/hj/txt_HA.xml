@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="txt_HA.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="txt_HA0000" x="0" y="0" width="714" height="585"/>
+	<SubTexture name="txt_HA0001" x="0" y="0" width="714" height="585"/>
+	<SubTexture name="txt_HA0002" x="716" y="0" width="684" height="561" frameX="-15" frameY="-12" frameWidth="714" frameHeight="585"/>
+	<SubTexture name="txt_HA0003" x="716" y="0" width="684" height="561" frameX="-15" frameY="-12" frameWidth="714" frameHeight="585"/>
+</TextureAtlas>

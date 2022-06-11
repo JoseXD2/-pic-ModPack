@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Port by LuisFernan MB, please suscribe to my channel :)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "LuisFernan"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beep?"
+		},
+		{
+			"expression": "talk",
+			"text": "IT WORKED!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sky"
+		},
+		{
+			"expression": "talk",
+			"text": "THE SHIFT WORKED!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sky"
+		},
+		{
+			"expression": "talk",
+			"text": "we can be together forever, The Boyrfriend",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sky"
+		},
+		{
+			"expression": "shocked",
+			"text": "bop beeop?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

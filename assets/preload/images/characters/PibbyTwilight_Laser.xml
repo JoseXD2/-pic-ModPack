@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PibbyTwilight_Laser.png"><SubTexture name="Twi_Charge_LASER instance 0000" x="1000" y="642" width="593" height="580" frameX="-4" frameY="-70" frameWidth="636" frameHeight="651" />
+<SubTexture name="Twi_Charge_LASER instance 0001" x="577" y="0" width="571" height="617" frameX="-4" frameY="-33" frameWidth="636" frameHeight="651" />
+<SubTexture name="Twi_Charge_LASER instance 0002" x="0" y="0" width="577" height="642" frameX="-4" frameY="-8" frameWidth="636" frameHeight="651" />
+<SubTexture name="Twi_Down_LASER instance 0000" x="2355" y="485" width="755" height="466" frameX="-126" frameY="-100" frameWidth="905" frameHeight="623" />
+<SubTexture name="Twi_HEHEHE_LASER instance 0000" x="522" y="642" width="478" height="582" frameX="-2" frameY="-19" frameWidth="497" frameHeight="601" />
+<SubTexture name="Twi_Idle_LASER instance 0000" x="0" y="1797" width="543" height="542" frameX="0" frameY="-13" frameWidth="577" frameHeight="555" />
+<SubTexture name="Twi_Left_LASER instance 0000" x="1021" y="1797" width="475" height="527" frameX="-3" frameY="-6" frameWidth="478" frameHeight="544" />
+<SubTexture name="Twi_Left_LASER instance 0001" x="543" y="1797" width="478" height="530" frameX="0" frameY="-4" frameWidth="478" frameHeight="544" />
+<SubTexture name="Twi_Right_LASER instance 0000" x="1670" y="0" width="685" height="565" frameX="-48" frameY="-1" frameWidth="760" frameHeight="566" />
+<SubTexture name="Twi_Right_LASER instance 0001" x="1670" y="565" width="677" height="564" frameX="-48" frameY="-2" frameWidth="760" frameHeight="566" />
+<SubTexture name="Twi_Shoot_LASER instance 0000" x="2355" y="0" width="922" height="485" frameX="-147" frameY="-71" frameWidth="1086" frameHeight="556" />
+<SubTexture name="Twi_Shoot_LASER instance 0001" x="0" y="2339" width="929" height="485" frameX="-147" frameY="-71" frameWidth="1086" frameHeight="556" />
+<SubTexture name="Twi_Shoot_LASER instance 0002" x="0" y="1242" width="698" height="555" frameX="-106" frameY="-1" frameWidth="1086" frameHeight="556" />
+<SubTexture name="Twi_Shoot_LASER instance 0003" x="698" y="1242" width="698" height="555" frameX="-106" frameY="-1" frameWidth="1086" frameHeight="556" />
+<SubTexture name="Twi_Shoot_LASER instance 0004" x="1396" y="1242" width="539" height="548" frameX="-22" frameY="-8" frameWidth="1086" frameHeight="556" />
+<SubTexture name="Twi_Up_LASER instance 0000" x="0" y="642" width="522" height="600" frameX="-41" frameY="-77" frameWidth="585" frameHeight="707" />
+<SubTexture name="Twi_Up_LASER instance 0001" x="1148" y="0" width="522" height="608" frameX="-42" frameY="-72" frameWidth="585" frameHeight="707" />
+</TextureAtlas>

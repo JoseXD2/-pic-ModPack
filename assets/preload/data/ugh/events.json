@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "ErectBack",
+		"player1": "erect-bf",
+		"player2": "erect-tankman",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0",
+						"5"
+					]
+				]
+			],
+			[
+				6833.33333333333,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"tankman"
+					]
+				]
+			],
+			[
+				38833.3333333333,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"tankman"
+					]
+				]
+			],
+			[
+				70916.6666666667,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"tankman"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "erect-gf",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ugh"
+	}
+}

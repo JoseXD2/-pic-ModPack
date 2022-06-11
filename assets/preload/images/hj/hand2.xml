@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hand2.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hand20000" x="1195" y="0" width="459" height="417" frameX="-14" frameY="-208" frameWidth="613" frameHeight="625"/>
+	<SubTexture name="hand20001" x="604" y="0" width="589" height="508" frameX="-24" frameY="-30" frameWidth="613" frameHeight="625"/>
+	<SubTexture name="hand20002" x="0" y="0" width="602" height="520" frameX="0" frameY="0" frameWidth="613" frameHeight="625"/>
+</TextureAtlas>

@@ -1,0 +1,329 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "neo-road",
+		"player1": "bf-neo",
+		"player2": "neokb",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"stupidflashthinglmao",
+						"2.5",
+						"2"
+					],
+					[
+						"TrailK",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				3272.72727272727,
+				[
+					[
+						"DodgeGun",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				17454.5454545455,
+				[
+					[
+						"DodgeGun",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				39272.7272727273,
+				[
+					[
+						"DodgeGun",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				49090.9090909091,
+				[
+					[
+						"hud fade",
+						"Fade",
+						""
+					]
+				]
+			],
+			[
+				52363.6363636363,
+				[
+					[
+						"DodgeGun",
+						"2",
+						""
+					],
+					[
+						"hud fade",
+						"FadeBack",
+						""
+					]
+				]
+			],
+			[
+				78545.4545454545,
+				[
+					[
+						"DodgeGun",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				95999.9999999999,
+				[
+					[
+						"Change Character",
+						"0",
+						"neobf-404"
+					],
+					[
+						"Change Character",
+						"2",
+						"neogf-404"
+					],
+					[
+						"Change Character",
+						"1",
+						"neokb-404"
+					],
+					[
+						"Play Animation",
+						"retry",
+						""
+					]
+				]
+			],
+			[
+				100363.636363636,
+				[
+					[
+						"Play Animation",
+						"back",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-neo"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-neo"
+					],
+					[
+						"Change Character",
+						"1",
+						"neokb"
+					]
+				]
+			],
+			[
+				122181.818181818,
+				[
+					[
+						"DodgeGun",
+						"2.5",
+						""
+					]
+				]
+			],
+			[
+				139636.363636363,
+				[
+					[
+						"DodgeGun",
+						"2.5",
+						""
+					]
+				]
+			],
+			[
+				165818.181818182,
+				[
+					[
+						"DodgeGun",
+						"2.5",
+						""
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"DodgeGun",
+						"2.5",
+						""
+					]
+				]
+			],
+			[
+				196363.636363636,
+				[
+					[
+						"DodgeGun",
+						"2.5",
+						""
+					]
+				]
+			],
+			[
+				211636.363636363,
+				[
+					[
+						"hud fade",
+						"Fade",
+						""
+					]
+				]
+			],
+			[
+				213409.090909091,
+				[
+					[
+						"hud fade",
+						"FadeBack",
+						""
+					]
+				]
+			],
+			[
+				213818.181818181,
+				[
+					[
+						"Change Character",
+						"0",
+						"neobf-404"
+					],
+					[
+						"Change Character",
+						"2",
+						"neogf-404"
+					],
+					[
+						"Change Character",
+						"1",
+						"neokb-404"
+					],
+					[
+						"Play Animation",
+						"retry",
+						""
+					]
+				]
+			],
+			[
+				218181.818181818,
+				[
+					[
+						"Play Animation",
+						"back",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-neo"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-neo"
+					],
+					[
+						"Change Character",
+						"1",
+						"neokb"
+					],
+					[
+						"DodgeGun",
+						"2.5",
+						""
+					]
+				]
+			],
+			[
+				226909.09090909,
+				[
+					[
+						"DodgeGun",
+						"2.5",
+						""
+					],
+					[
+						"Play Animation",
+						"retry",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"neobf-404"
+					],
+					[
+						"Change Character",
+						"2",
+						"neogf-404"
+					],
+					[
+						"Change Character",
+						"1",
+						"neokb-404"
+					]
+				]
+			],
+			[
+				235636.363636363,
+				[
+					[
+						"Play Animation",
+						"back",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-neo"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-neo"
+					],
+					[
+						"Change Character",
+						"1",
+						"neokb"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-neo",
+		"bpm": 220,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Censory-Overload"
+	}
+}

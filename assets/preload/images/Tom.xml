@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tom.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TomIdle0000" x="60.8" y="246.4" width="55.6" height="123.2" pivotX="11.2" pivotY="5.6" frameX="0" frameY="-1.2" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0001" x="60.8" y="246.4" width="55.6" height="123.2" frameX="0" frameY="-1.2" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0002" x="62.8" y="0" width="55.2" height="124" frameX="-0.4" frameY="-0.8" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0003" x="62.8" y="0" width="55.2" height="124" frameX="-0.4" frameY="-0.8" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0004" x="222" y="624.8" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0005" x="222" y="624.8" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0006" x="276" y="499.6" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0007" x="276" y="499.6" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0008" x="276.4" y="373.6" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0009" x="276.4" y="373.6" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0010" x="276" y="499.6" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0011" x="276" y="499.6" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0012" x="276.4" y="373.6" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdle0013" x="276.4" y="373.6" width="53.6" height="124.8" frameX="-1.2" frameY="0" frameWidth="139" frameHeight="312"/>
+	<SubTexture name="TomIdol0000" x="112.4" y="370" width="54.8" height="124" pivotX="14.8" pivotY="5.8" frameX="0" frameY="-0.4" frameWidth="137" frameHeight="312"/>
+	<SubTexture name="TomIdol0001" x="112.4" y="370" width="54.8" height="124" frameX="0" frameY="-0.4" frameWidth="137" frameHeight="312"/>
+	<SubTexture name="TomIdol0002" x="167.6" y="249.6" width="54.4" height="124.4" frameX="-0.4" frameY="-0.4" frameWidth="137" frameHeight="312"/>
+	<SubTexture name="TomIdol0003" x="167.6" y="249.6" width="54.4" height="124.4" frameX="-0.4" frameY="-0.4" frameWidth="137" frameHeight="312"/>
+	<SubTexture name="TomIdol0004" x="167.2" y="494.4" width="54.4" height="124.8" frameX="0" frameY="0" frameWidth="137" frameHeight="312"/>
+	<SubTexture name="TomIdol0005" x="167.2" y="494.4" width="54.4" height="124.8" frameX="0" frameY="0" frameWidth="137" frameHeight="312"/>
+	<SubTexture name="TomIdol0006" x="167.2" y="619.6" width="54.4" height="124.8" frameX="0" frameY="0" frameWidth="137" frameHeight="312"/>
+	<SubTexture name="TomIdol0007" x="167.2" y="619.6" width="54.4" height="124.8" frameX="0" frameY="0" frameWidth="137" frameHeight="312"/>
+	<SubTexture name="TomIdol0008" x="112.4" y="494.4" width="54.4" height="124.8" frameX="0" frameY="0" frameWidth="141" frameHeight="312"/>
+	<SubTexture name="TomLooking0000" x="222.4" y="125.2" width="54" height="124.4" pivotX="14.55" pivotY="5.95" frameX="-2" frameY="-0.4" frameWidth="141" frameHeight="312"/>
+	<SubTexture name="TomLooking0001" x="222.4" y="125.2" width="54" height="124.4" frameX="-2" frameY="-0.4" frameWidth="141" frameHeight="312"/>
+	<SubTexture name="TomLooking0002" x="171.6" y="0" width="54" height="124.8" frameX="-2.4" frameY="0" frameWidth="141" frameHeight="312"/>
+	<SubTexture name="TomLooking0003" x="171.6" y="0" width="54" height="124.8" frameX="-2.4" frameY="0" frameWidth="141" frameHeight="312"/>
+	<SubTexture name="TomLooking0004" x="116.8" y="124.4" width="54.4" height="124.8" frameX="-0.4" frameY="0" frameWidth="141" frameHeight="312"/>
+	<SubTexture name="TomLooking0005" x="116.8" y="124.4" width="54.4" height="124.8" frameX="-0.4" frameY="0" frameWidth="141" frameHeight="312"/>
+	<SubTexture name="TomLooking0006" x="112.4" y="494.4" width="54.4" height="124.8" frameX="0" frameY="0" frameWidth="141" frameHeight="312"/>
+	<SubTexture name="TomLooking0007" x="112.4" y="494.4" width="54.4" height="124.8" frameX="0" frameY="0" frameWidth="141" frameHeight="312"/>
+	<SubTexture name="TomReaction0000" x="56.4" y="615.6" width="55.6" height="123.6" pivotX="14.5" pivotY="8.6" frameX="0" frameY="-2" frameWidth="140" frameHeight="315"/>
+	<SubTexture name="TomReaction0001" x="56.4" y="615.6" width="55.6" height="123.6" frameX="0" frameY="-2" frameWidth="140" frameHeight="315"/>
+	<SubTexture name="TomReaction0002" x="276" y="624.8" width="52" height="126" frameX="-3.2" frameY="0" frameWidth="140" frameHeight="315"/>
+	<SubTexture name="TomReaction0003" x="276" y="624.8" width="52" height="126" frameX="-3.2" frameY="0" frameWidth="140" frameHeight="315"/>
+	<SubTexture name="TomReaction0004" x="226" y="0" width="53.6" height="124.8" frameX="-2.4" frameY="-1.2" frameWidth="140" frameHeight="315"/>
+	<SubTexture name="TomReaction0005" x="226" y="0" width="53.6" height="124.8" frameX="-2.4" frameY="-1.2" frameWidth="140" frameHeight="315"/>
+	<SubTexture name="TomReaction0006" x="222" y="499.6" width="53.6" height="124.8" frameX="-2.4" frameY="-1.2" frameWidth="140" frameHeight="315"/>
+	<SubTexture name="TomTransition0000" x="56.4" y="491.2" width="55.6" height="124" pivotX="17.25" pivotY="5.6" frameX="0" frameY="-0.8" frameWidth="142" frameHeight="312"/>
+	<SubTexture name="TomTransition0001" x="56.4" y="491.2" width="55.6" height="124" frameX="0" frameY="-0.8" frameWidth="142" frameHeight="312"/>
+	<SubTexture name="TomTransition0002" x="112.4" y="619.6" width="54.4" height="124.8" frameX="-2.4" frameY="0" frameWidth="142" frameHeight="312"/>
+	<SubTexture name="TomTransition0003" x="112.4" y="619.6" width="54.4" height="124.8" frameX="-2.4" frameY="0" frameWidth="142" frameHeight="312"/>
+	<SubTexture name="TomTransition0004" x="222" y="374.4" width="54" height="124.8" frameX="-2.8" frameY="0" frameWidth="142" frameHeight="312"/>
+	<SubTexture name="TomWalkingBy0000" x="0" y="491.2" width="56" height="125.2" pivotX="56.35" pivotY="29.9" frameX="-7.6" frameY="-0.8" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0001" x="0" y="616.8" width="56" height="125.2" frameX="-7.6" frameY="-0.8" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0002" x="280" y="0" width="54" height="122.4" frameX="-8.8" frameY="-4.4" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0003" x="331.2" y="122.8" width="54" height="122.4" frameX="-8.8" frameY="-4.4" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0004" x="62.8" y="124.4" width="52.8" height="121.6" frameX="-10" frameY="-5.6" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0005" x="118.4" y="0" width="52.8" height="121.6" frameX="-10" frameY="-5.6" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0006" x="277.2" y="248.8" width="56" height="118.4" frameX="-5.6" frameY="-1.2" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0007" x="334.4" y="0" width="56" height="118" frameX="-5.6" frameY="-1.6" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0008" x="0" y="0" width="62.4" height="122.8" frameX="0" frameY="0" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0009" x="0" y="123.2" width="62.4" height="122.8" frameX="0" frameY="0" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0010" x="0" y="246.4" width="60.4" height="122" frameX="-2" frameY="-4.4" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0011" x="0" y="368.8" width="60.4" height="122" frameX="-2" frameY="-4.4" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0012" x="222.4" y="250" width="54.4" height="123.2" frameX="-8" frameY="-4.8" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0013" x="276.8" y="135.2" width="54" height="123.2" frameX="-8" frameY="-4.8" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0014" x="328.4" y="624.8" width="52" height="124.4" frameX="-11.2" frameY="-1.6" frameWidth="159" frameHeight="320"/>
+	<SubTexture name="TomWalkingBy0015" x="330" y="498.8" width="52" height="124.4" frameX="-11.2" frameY="-1.6" frameWidth="159" frameHeight="320"/>
+</TextureAtlas>

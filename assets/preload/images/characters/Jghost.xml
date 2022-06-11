@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jghost.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jghost Sing Note DOWN0000" x="1491" y="1587" width="392" height="743" frameX="-35" frameY="0" frameWidth="430" frameHeight="743"/>
+	<SubTexture name="Jghost Sing Note DOWN0001" x="1491" y="1587" width="392" height="743" frameX="-35" frameY="0" frameWidth="430" frameHeight="743"/>
+	<SubTexture name="Jghost Sing Note DOWN0002" x="1883" y="1587" width="421" height="735" frameX="0" frameY="-1" frameWidth="430" frameHeight="743"/>
+	<SubTexture name="Jghost Sing Note DOWN0003" x="1883" y="1587" width="421" height="735" frameX="0" frameY="-1" frameWidth="430" frameHeight="743"/>
+	<SubTexture name="Jghost Sing Note LEFT0000" x="672" y="1587" width="429" height="768" frameX="-28" frameY="-7" frameWidth="719" frameHeight="775"/>
+	<SubTexture name="Jghost Sing Note LEFT0001" x="672" y="1587" width="429" height="768" frameX="-28" frameY="-7" frameWidth="719" frameHeight="775"/>
+	<SubTexture name="Jghost Sing Note LEFT0002" x="1101" y="1587" width="390" height="762" frameX="0" frameY="0" frameWidth="719" frameHeight="775"/>
+	<SubTexture name="Jghost Sing Note LEFT0003" x="1101" y="1587" width="390" height="762" frameX="0" frameY="0" frameWidth="719" frameHeight="775"/>
+	<SubTexture name="Jghost Sing Note RIGHT0000" x="361" y="1587" width="311" height="774" frameX="-41" frameY="-6" frameWidth="364" frameHeight="780"/>
+	<SubTexture name="Jghost Sing Note RIGHT0001" x="361" y="1587" width="311" height="774" frameX="-41" frameY="-6" frameWidth="364" frameHeight="780"/>
+	<SubTexture name="Jghost Sing Note RIGHT0002" x="2114" y="811" width="347" height="776"/>
+	<SubTexture name="Jghost Sing Note RIGHT0003" x="2114" y="811" width="347" height="776"/>
+	<SubTexture name="Jghost Sing Note UP0000" x="398" y="0" width="430" height="805" frameX="0" frameY="-19" frameWidth="430" frameHeight="823"/>
+	<SubTexture name="Jghost Sing Note UP0001" x="398" y="0" width="430" height="805" frameX="0" frameY="-19" frameWidth="430" frameHeight="823"/>
+	<SubTexture name="Jghost Sing Note UP0002" x="0" y="0" width="398" height="811" frameX="-6" frameY="0" frameWidth="430" frameHeight="823"/>
+	<SubTexture name="Jghost Sing Note UP0003" x="0" y="0" width="398" height="811" frameX="-6" frameY="0" frameWidth="430" frameHeight="823"/>
+	<SubTexture name="Jghost idle dance0000" x="1734" y="811" width="380" height="776" frameX="0" frameY="-7" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0001" x="1354" y="811" width="380" height="776" frameX="0" frameY="-6" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0002" x="1544" y="0" width="373" height="777" frameX="-1" frameY="-3" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0003" x="1184" y="0" width="360" height="777" frameX="-2" frameY="-1" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0004" x="1008" y="811" width="346" height="776" frameX="-4" frameY="0" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0005" x="670" y="811" width="338" height="776" frameX="-5" frameY="0" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0006" x="336" y="811" width="334" height="776" frameX="-5" frameY="-1" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0007" x="0" y="811" width="336" height="776" frameX="-5" frameY="-1" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0008" x="2294" y="0" width="343" height="776" frameX="-4" frameY="-2" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0009" x="828" y="0" width="356" height="777" frameX="-2" frameY="-4" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0010" x="0" y="1587" width="361" height="775" frameX="-1" frameY="-5" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0011" x="1917" y="0" width="377" height="776" frameX="0" frameY="-7" frameWidth="393" frameHeight="782"/>
+	<SubTexture name="Jghost idle dance0012" x="1917" y="0" width="377" height="776" frameX="0" frameY="-7" frameWidth="393" frameHeight="782"/>
+</TextureAtlas>

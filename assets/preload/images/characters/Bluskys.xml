@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bluskys.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bluskys letsgo 0000" x="1613" y="2078" width="238" height="634" frameX="-133" frameY="-113" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0001" x="1613" y="2078" width="238" height="634" frameX="-128" frameY="-113" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0002" x="2102" y="2078" width="266" height="629" frameX="-111" frameY="-115" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0003" x="2102" y="2078" width="266" height="629" frameX="-86" frameY="-117" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0004" x="2368" y="2078" width="294" height="625" frameX="-69" frameY="-119" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0005" x="2368" y="2078" width="294" height="625" frameX="-64" frameY="-120" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0006" x="1341" y="2078" width="372" height="634" frameX="-63" frameY="-113" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0007" x="1341" y="2078" width="272" height="634" frameX="-73" frameY="-81" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0008" x="455" y="0" width="461" height="726" frameX="-32" frameY="-25" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0009" x="455" y="0" width="461" height="726" frameX="-26" frameY="-13" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0010" x="0" y="0" width="455" height="726" frameX="-20" frameY="0" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0011" x="0" y="0" width="455" height="726" frameX="-20" frameY="-6" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0012" x="916" y="0" width="471" height="723" frameX="-20" frameY="-19" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0013" x="916" y="0" width="471" height="723" frameX="-20" frameY="-24" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0014" x="1387" y="0" width="479" height="717" frameX="-15" frameY="-25" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0015" x="1387" y="0" width="479" height="717" frameX="-10" frameY="-26" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0016" x="1866" y="0" width="485" height="714" frameX="-6" frameY="-27" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0017" x="1866" y="0" width="485" height="714" frameX="-3" frameY="-27" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0018" x="2351" y="0" width="487" height="711" frameX="-1" frameY="-28" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0019" x="2351" y="0" width="487" height="711" frameX="0" frameY="-28" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys letsgo 0020" x="2351" y="0" width="487" height="711" frameX="0" frameY="-28" frameWidth="501" frameHeight="751"/>
+	<SubTexture name="Bluskys Sing Note DOWN 0000" x="1091" y="2078" width="250" height="639" frameX="-3" frameY="0" frameWidth="260" frameHeight="639"/>
+	<SubTexture name="Bluskys Sing Note DOWN 0001" x="1091" y="2078" width="250" height="639" frameX="-3" frameY="0" frameWidth="260" frameHeight="639"/>
+	<SubTexture name="Bluskys Sing Note DOWN 0002" x="1851" y="2078" width="251" height="633" frameX="0" frameY="-3" frameWidth="260" frameHeight="639"/>
+	<SubTexture name="Bluskys Sing Note DOWN 0003" x="1851" y="2078" width="251" height="633" frameX="0" frameY="-3" frameWidth="260" frameHeight="639"/>
+	<SubTexture name="Bluskys Sing Note LEFT 0000" x="0" y="2078" width="258" height="645" frameX="-3" frameY="0" frameWidth="262" frameHeight="650"/>
+	<SubTexture name="Bluskys Sing Note LEFT 0001" x="0" y="2078" width="258" height="645" frameX="-3" frameY="0" frameWidth="262" frameHeight="650"/>
+	<SubTexture name="Bluskys Sing Note LEFT 0002" x="838" y="2078" width="253" height="641" frameX="0" frameY="-8" frameWidth="262" frameHeight="650"/>
+	<SubTexture name="Bluskys Sing Note LEFT 0003" x="838" y="2078" width="253" height="641" frameX="0" frameY="-8" frameWidth="262" frameHeight="650"/>
+	<SubTexture name="Bluskys Sing Note LEFT 0004" x="585" y="2078" width="253" height="641" frameX="0" frameY="-8" frameWidth="262" frameHeight="650"/>
+	<SubTexture name="Bluskys Sing Note LEFT 0005" x="585" y="2078" width="253" height="641" frameX="0" frameY="-8" frameWidth="262" frameHeight="650"/>
+	<SubTexture name="Bluskys Sing Note LEFT 0006" x="838" y="2078" width="253" height="641" frameX="0" frameY="-8" frameWidth="262" frameHeight="650"/>
+	<SubTexture name="Bluskys Sing Note LEFT 0007" x="838" y="2078" width="253" height="641" frameX="0" frameY="-8" frameWidth="262" frameHeight="650"/>
+	<SubTexture name="Bluskys Sing Note RIGHT 0000" x="258" y="2078" width="327" height="643" frameX="0" frameY="-6" frameWidth="332" frameHeight="649"/>
+	<SubTexture name="Bluskys Sing Note RIGHT 0001" x="258" y="2078" width="327" height="643" frameX="0" frameY="-6" frameWidth="332" frameHeight="649"/>
+	<SubTexture name="Bluskys Sing Note RIGHT 0002" x="2534" y="1421" width="320" height="645" frameX="-3" frameY="0" frameWidth="332" frameHeight="649"/>
+	<SubTexture name="Bluskys Sing Note RIGHT 0003" x="2534" y="1421" width="320" height="645" frameX="-3" frameY="0" frameWidth="332" frameHeight="649"/>
+	<SubTexture name="Bluskys Sing Note RIGHT 0004" x="2215" y="1421" width="319" height="645" frameX="-3" frameY="0" frameWidth="332" frameHeight="649"/>
+
+	<SubTexture name="Bluskys Sing Note RIGHT 0005" x="2215" y="1421" width="319" height="645" frameX="-3" frameY="0" frameWidth="332" frameHeight="649"/>
+	<SubTexture name="Bluskys Sing Note RIGHT 0006" x="2534" y="1421" width="320" height="645" frameX="-3" frameY="0" frameWidth="332" frameHeight="649"/>
+	<SubTexture name="Bluskys Sing Note RIGHT 0007" x="2534" y="1421" width="320" height="645" frameX="-3" frameY="0" frameWidth="332" frameHeight="649"/>
+	<SubTexture name="Bluskys Sing Note UP 0000" x="626" y="726" width="324" height="685" frameX="-7" frameY="-14" frameWidth="334" frameHeight="698"/>
+	<SubTexture name="Bluskys Sing Note UP 0001" x="626" y="726" width="324" height="685" frameX="-7" frameY="-14" frameWidth="334" frameHeight="698"/>
+	<SubTexture name="Bluskys Sing Note UP 0002" x="313" y="726" width="313" height="695"/>
+	<SubTexture name="Bluskys Sing Note UP 0003" x="313" y="726" width="313" height="695"/>
+	<SubTexture name="Bluskys Sing Note UP 0013" x="0" y="726" width="313" height="695"/>
+	<SubTexture name="Bluskys Sing Note UP 0014" x="0" y="726" width="313" height="695"/>
+	<SubTexture name="Bluskys Sing Note UP 0015" x="313" y="726" width="313" height="695"/>
+	<SubTexture name="Bluskys Sing Note UP 0016" x="313" y="726" width="313" height="695"/>
+	<SubTexture name="Bluskys idle dance 0000" x="1918" y="1421" width="297" height="656" frameX="-48" frameY="-6" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0001" x="336" y="1421" width="305" height="657" frameX="-46" frameY="-4" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0002" x="1602" y="1421" width="316" height="656" frameX="-40" frameY="-1" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0003" x="1277" y="1421" width="325" height="656" frameX="-20" frameY="0" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0004" x="0" y="1421" width="336" height="657" frameX="-4" frameY="0" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0005" x="2235" y="726" width="339" height="657" frameX="-1" frameY="0" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0006" x="939" y="1421" width="338" height="656" frameX="0" frameY="-1" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0007" x="1901" y="726" width="334" height="657" frameX="0" frameY="-2" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0008" x="1572" y="726" width="329" height="657" frameX="-1" frameY="-3" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0009" x="1252" y="726" width="320" height="657" frameX="-7" frameY="-4" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0010" x="950" y="726" width="302" height="657" frameX="-36" frameY="-5" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0011" x="641" y="1421" width="298" height="656" frameX="-45" frameY="-5" frameWidth="363" frameHeight="662"/>
+	<SubTexture name="Bluskys idle dance 0012" x="641" y="1421" width="298" height="656" frameX="-48" frameY="-6" frameWidth="363" frameHeight="662"/>
+</TextureAtlas>

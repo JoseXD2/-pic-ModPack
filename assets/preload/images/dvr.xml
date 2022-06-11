@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dvr.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="duvr0000" x="0" y="0" width="512" height="1235" frameX="0" frameY="0" frameWidth="513" frameHeight="1235"/>
+	<SubTexture name="duvr0001" x="0" y="0" width="512" height="1235" frameX="0" frameY="0" frameWidth="513" frameHeight="1235"/>
+	<SubTexture name="duvr0002" x="0" y="0" width="512" height="1235" frameX="0" frameY="0" frameWidth="513" frameHeight="1235"/>
+	<SubTexture name="duvr0003" x="512" y="0" width="513" height="1235"/>
+	<SubTexture name="duvr0004" x="512" y="0" width="513" height="1235"/>
+	<SubTexture name="duvr0005" x="512" y="0" width="513" height="1235"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vintage.png">
+
+    <!-- FUCK YOU ANIMATE, made with spritecow c: !-->
+
+	<SubTexture name="idle0000" x="10" y="10" width="540" height="396"/>
+</TextureAtlas>

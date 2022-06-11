@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Laser.png"><SubTexture name="Laser instance 0000" x="0" y="226" width="414" height="71" frameX="-9" frameY="-4" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0001" x="0" y="226" width="414" height="71" frameX="-9" frameY="-4" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0002" x="409" y="0" width="419" height="75" frameX="0" frameY="-2" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0003" x="409" y="0" width="419" height="75" frameX="0" frameY="-2" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0004" x="0" y="76" width="411" height="75" frameX="-8" frameY="0" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0005" x="0" y="76" width="411" height="75" frameX="-8" frameY="0" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0006" x="0" y="0" width="409" height="76" frameX="-14" frameY="-2" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0007" x="0" y="0" width="409" height="76" frameX="-14" frameY="-2" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0008" x="414" y="226" width="414" height="71" frameX="-9" frameY="-4" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0009" x="414" y="226" width="414" height="71" frameX="-9" frameY="-4" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0010" x="0" y="151" width="419" height="75" frameX="0" frameY="-2" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0011" x="0" y="151" width="419" height="75" frameX="0" frameY="-2" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0012" x="411" y="76" width="411" height="75" frameX="-8" frameY="0" frameWidth="428" frameHeight="83" />
+<SubTexture name="Laser instance 0013" x="411" y="76" width="411" height="75" frameX="-8" frameY="0" frameWidth="428" frameHeight="83" />
+</TextureAtlas>

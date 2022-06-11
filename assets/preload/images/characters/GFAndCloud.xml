@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GFAndCloud.png">
+<SubTexture name="DOWN Cloud0000" x="1563" y="2054" width="558" height="368" frameX="-2" frameY="-2" frameWidth="560" frameHeight="386" />
+<SubTexture name="DOWN Cloud0001" x="2121" y="2054" width="560" height="368" frameX="0" frameY="-1" frameWidth="560" frameHeight="386" />
+<SubTexture name="DOWN gf0000" x="0" y="2054" width="514" height="380" frameX="-6" frameY="-5" frameWidth="542" frameHeight="387" />
+<SubTexture name="DOWN gf0001" x="2209" y="1566" width="517" height="382" frameX="-6" frameY="-1" frameWidth="542" frameHeight="387" />
+<SubTexture name="IDLE0000" x="596" y="835" width="597" height="408" frameX="-21" frameY="-17" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0001" x="0" y="835" width="596" height="409" frameX="-21" frameY="-17" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0002" x="957" y="0" width="613" height="410" frameX="-15" frameY="-15" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0003" x="957" y="410" width="612" height="410" frameX="-15" frameY="-15" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0004" x="1570" y="0" width="639" height="408" frameX="-10" frameY="-17" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0005" x="1570" y="408" width="638" height="407" frameX="-10" frameY="-17" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0006" x="0" y="1650" width="609" height="404" frameX="-8" frameY="-21" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0007" x="609" y="1650" width="594" height="404" frameX="-9" frameY="-21" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0008" x="573" y="1244" width="582" height="405" frameX="-11" frameY="-20" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0009" x="1570" y="815" width="573" height="406" frameX="-17" frameY="-19" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0010" x="0" y="1244" width="573" height="406" frameX="-17" frameY="-19" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0011" x="1155" y="1244" width="565" height="405" frameX="-23" frameY="-20" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0012" x="1203" y="1650" width="568" height="404" frameX="-25" frameY="-21" frameWidth="652" frameHeight="434" />
+<SubTexture name="IDLE0013" x="2209" y="0" width="568" height="404" frameX="-25" frameY="-21" frameWidth="652" frameHeight="434" />
+<SubTexture name="LEFT Cloud0000" x="524" y="2445" width="530" height="362" frameX="-4" frameY="-11" frameWidth="549" frameHeight="392" />
+<SubTexture name="LEFT Cloud0001" x="0" y="2434" width="531" height="364" frameX="-5" frameY="-11" frameWidth="549" frameHeight="392" />
+<SubTexture name="LEFT gf0000" x="0" y="423" width="442" height="412" frameX="-3" frameY="-7" frameWidth="452" frameHeight="425" />
+<SubTexture name="LEFT gf0001" x="442" y="423" width="442" height="409" frameX="-3" frameY="-8" frameWidth="452" frameHeight="425" />
+<SubTexture name="RIGHT Cloud0000" x="2209" y="1183" width="449" height="383" frameX="-2" frameY="-3" frameWidth="485" frameHeight="388" />
+<SubTexture name="RIGHT Cloud0001" x="1720" y="1244" width="447" height="380" frameX="-3" frameY="-4" frameWidth="485" frameHeight="388" />
+<SubTexture name="RIGHT gf0000" x="2209" y="794" width="521" height="389" frameX="-28" frameY="-1" frameWidth="571" frameHeight="393" />
+<SubTexture name="RIGHT gf0001" x="2209" y="404" width="519" height="390" frameX="-27" frameY="0" frameWidth="571" frameHeight="393" />
+<SubTexture name="UP Cloud0000" x="514" y="2054" width="524" height="376" frameX="-11" frameY="-21" frameWidth="547" frameHeight="401" />
+<SubTexture name="UP Cloud0001" x="1038" y="2054" width="525" height="375" frameX="-10" frameY="-22" frameWidth="547" frameHeight="401" />
+<SubTexture name="UP gf0000" x="0" y="0" width="483" height="423" frameX="-28" frameY="-23" frameWidth="599" frameHeight="463" />
+<SubTexture name="UP gf0001" x="483" y="0" width="474" height="417" frameX="-28" frameY="-29" frameWidth="599" frameHeight="463" />
+</TextureAtlas>

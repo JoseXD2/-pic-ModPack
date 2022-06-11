@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BendyClassic.png"><SubTexture name="Down Normal instance 0000" x="3038" y="1496" width="365" height="348" frameX="0" frameY="-58" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0001" x="3038" y="1125" width="348" height="371" frameX="-9" frameY="-36" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0002" x="3038" y="377" width="344" height="374" frameX="-14" frameY="-33" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0003" x="3038" y="377" width="344" height="374" frameX="-14" frameY="-33" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0004" x="2247" y="401" width="331" height="382" frameX="-31" frameY="-24" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0005" x="2247" y="401" width="331" height="382" frameX="-31" frameY="-24" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0006" x="2637" y="1578" width="331" height="383" frameX="-32" frameY="-23" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0007" x="2637" y="1578" width="331" height="383" frameX="-32" frameY="-23" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0008" x="2637" y="1192" width="328" height="386" frameX="-38" frameY="-20" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0009" x="2637" y="1192" width="328" height="386" frameX="-38" frameY="-20" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0010" x="2637" y="796" width="319" height="396" frameX="-54" frameY="-9" frameWidth="379" frameHeight="408" />
+<SubTexture name="Down Normal instance 0011" x="1878" y="814" width="312" height="405" frameX="-67" frameY="0" frameWidth="379" frameHeight="408" />
+<SubTexture name="Idle Normal instance 0000" x="1551" y="836" width="235" height="409" frameX="0" frameY="-37" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0001" x="1551" y="836" width="235" height="409" frameX="0" frameY="-37" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0002" x="1092" y="983" width="225" height="426" frameX="-4" frameY="-20" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0003" x="1092" y="983" width="225" height="426" frameX="-4" frameY="-20" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0004" x="868" y="983" width="224" height="429" frameX="-5" frameY="-17" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0005" x="868" y="983" width="224" height="429" frameX="-5" frameY="-17" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0006" x="216" y="983" width="219" height="439" frameX="-8" frameY="-7" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0007" x="1120" y="0" width="215" height="446" frameX="-10" frameY="0" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0008" x="1335" y="0" width="216" height="446" frameX="-10" frameY="0" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0009" x="1335" y="446" width="216" height="445" frameX="-10" frameY="-1" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0010" x="0" y="983" width="216" height="441" frameX="-10" frameY="-5" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0011" x="0" y="983" width="216" height="441" frameX="-10" frameY="-5" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0012" x="435" y="983" width="216" height="435" frameX="-10" frameY="-11" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0013" x="435" y="983" width="216" height="435" frameX="-10" frameY="-11" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0014" x="651" y="983" width="217" height="431" frameX="-9" frameY="-15" frameWidth="235" frameHeight="447" />
+<SubTexture name="Idle Normal instance 0015" x="651" y="983" width="217" height="431" frameX="-9" frameY="-15" frameWidth="235" frameHeight="447" />
+<SubTexture name="Left instance 0000" x="2178" y="2638" width="453" height="389" frameX="0" frameY="-27" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0001" x="852" y="1837" width="432" height="403" frameX="-25" frameY="-14" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0002" x="852" y="1837" width="432" height="403" frameX="-25" frameY="-14" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0003" x="0" y="1837" width="427" height="406" frameX="-31" frameY="-11" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0004" x="0" y="1837" width="427" height="406" frameX="-31" frameY="-11" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0005" x="427" y="1837" width="425" height="406" frameX="-33" frameY="-11" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0006" x="427" y="1837" width="425" height="406" frameX="-33" frameY="-11" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0007" x="1443" y="1424" width="412" height="407" frameX="-40" frameY="-10" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0008" x="1443" y="1424" width="412" height="407" frameX="-40" frameY="-10" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0009" x="687" y="1424" width="387" height="410" frameX="-52" frameY="-7" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0010" x="0" y="1424" width="351" height="413" frameX="-69" frameY="-4" frameWidth="459" frameHeight="418" />
+<SubTexture name="Left instance 0011" x="1551" y="419" width="319" height="417" frameX="-94" frameY="0" frameWidth="459" frameHeight="418" />
+<SubTexture name="Right Normal instance 0000" x="3038" y="0" width="471" height="377" frameX="-4" frameY="-43" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0001" x="2516" y="2243" width="448" height="390" frameX="-3" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0002" x="2516" y="2243" width="448" height="390" frameX="-3" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0003" x="0" y="2638" width="448" height="390" frameX="-1" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0004" x="0" y="2638" width="448" height="390" frameX="-1" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0005" x="448" y="2638" width="448" height="390" frameX="0" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0006" x="448" y="2638" width="448" height="390" frameX="0" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0007" x="896" y="2638" width="448" height="390" frameX="0" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0008" x="896" y="2638" width="448" height="390" frameX="0" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0009" x="896" y="2638" width="448" height="390" frameX="0" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0010" x="896" y="2638" width="448" height="390" frameX="0" frameY="-30" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0011" x="1245" y="2243" width="443" height="391" frameX="0" frameY="-29" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0012" x="0" y="2243" width="427" height="395" frameX="-2" frameY="-25" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0013" x="1284" y="1837" width="398" height="401" frameX="-6" frameY="-18" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0014" x="1074" y="1424" width="369" height="409" frameX="-11" frameY="-10" frameWidth="476" frameHeight="421" />
+<SubTexture name="Right Normal instance 0015" x="1551" y="0" width="327" height="419" frameX="-17" frameY="0" frameWidth="476" frameHeight="421" />
+<SubTexture name="Up Normal instance 0000" x="0" y="0" width="373" height="506" frameX="-10" frameY="0" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0001" x="373" y="0" width="376" height="489" frameX="0" frameY="-17" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0002" x="373" y="0" width="376" height="489" frameX="0" frameY="-17" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0003" x="749" y="0" width="371" height="486" frameX="-3" frameY="-20" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0004" x="749" y="0" width="371" height="486" frameX="-3" frameY="-20" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0005" x="749" y="0" width="371" height="486" frameX="-3" frameY="-20" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0006" x="749" y="0" width="371" height="486" frameX="-3" frameY="-20" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0007" x="749" y="0" width="371" height="486" frameX="-3" frameY="-20" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0008" x="749" y="0" width="371" height="486" frameX="-3" frameY="-20" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0009" x="749" y="0" width="371" height="486" frameX="-3" frameY="-20" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0010" x="0" y="506" width="357" height="477" frameX="-11" frameY="-29" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0011" x="0" y="506" width="357" height="477" frameX="-11" frameY="-29" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0012" x="357" y="506" width="328" height="462" frameX="-26" frameY="-45" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0013" x="357" y="506" width="328" height="462" frameX="-26" frameY="-45" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0014" x="685" y="506" width="307" height="453" frameX="-35" frameY="-55" frameWidth="384" frameHeight="508" />
+<SubTexture name="Up Normal instance 0015" x="685" y="506" width="307" height="453" frameX="-35" frameY="-55" frameWidth="384" frameHeight="508" />
+<SubTexture name="You've got this instance 0000" x="3038" y="751" width="451" height="374" frameX="0" frameY="-38" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0001" x="1344" y="2638" width="417" height="390" frameX="-8" frameY="-23" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0002" x="1761" y="2638" width="417" height="390" frameX="-8" frameY="-23" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0003" x="1688" y="2243" width="414" height="391" frameX="-9" frameY="-22" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0004" x="2102" y="2243" width="414" height="391" frameX="-9" frameY="-22" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0005" x="427" y="2243" width="409" height="394" frameX="-10" frameY="-19" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0006" x="836" y="2243" width="409" height="394" frameX="-10" frameY="-19" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0007" x="2637" y="0" width="401" height="398" frameX="-12" frameY="-15" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0008" x="2637" y="398" width="401" height="398" frameX="-12" frameY="-15" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0009" x="1682" y="1837" width="390" height="401" frameX="-15" frameY="-11" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0010" x="2247" y="0" width="390" height="401" frameX="-15" frameY="-11" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0011" x="1878" y="0" width="369" height="407" frameX="-19" frameY="-5" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0012" x="1878" y="407" width="369" height="407" frameX="-19" frameY="-5" frameWidth="452" frameHeight="414" />
+<SubTexture name="You've got this instance 0013" x="351" y="1424" width="336" height="412" frameX="-24" frameY="0" frameWidth="452" frameHeight="414" />
+</TextureAtlas>

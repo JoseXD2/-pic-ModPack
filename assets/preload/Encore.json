@@ -1,0 +1,31 @@
+{
+	"storyName": "It's fun to play with you",
+	"hideFreeplay": false,
+	"weekBackground": "sonic exe",
+	"difficulties": "baby, hardnt, encore, flipped",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"too slow Encore",
+			"Sonic",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "sonic exe Week"
+}

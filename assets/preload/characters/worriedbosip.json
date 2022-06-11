@@ -1,0 +1,1 @@
+{"animations":[{"anim":"idle","fps":24,"indices":[],"loop":false,"name":"BOSIP scared","offsets":[-100,80]}],"camera_position":[80,-150],"flip_x":false,"healthbar_colors":[240,220,0],"healthicon":"bosip","image":"characters/Worriedbosip","no_antialiasing":false,"position":[250,20],"scale":1,"sing_duration":6.1}

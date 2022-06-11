@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="psykaDanceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="psykaDance0000" x="4" y="4" width="717" height="672" pivotX="0" pivotY="0" frameX="-2" frameY="-11" frameWidth="721" frameHeight="683"/>
+</TextureAtlas>

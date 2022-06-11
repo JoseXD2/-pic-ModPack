@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jghost idle dance"
+		},
+		{
+			"offsets": [
+				1,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jghost Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-39,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jghost Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				50,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jghost Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				12,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jghost Sing Note UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JghostEX",
+	"position": [
+		-500,
+		-200
+	],
+	"healthicon": "jghost-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		167,
+		45,
+		42
+	],
+	"camera_position": [
+		90,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

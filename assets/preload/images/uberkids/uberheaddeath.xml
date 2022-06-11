@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="frontbouncerdie.png"><SubTexture name="front 1 head die0000" x="929" y="953" width="541" height="698" frameX="-390" frameY="-322" frameWidth="1424" frameHeight="1231" />
+<SubTexture name="front 1 head die0001" x="1470" y="953" width="637" height="687" frameX="-447" frameY="-527" frameWidth="1424" frameHeight="1231" />
+<SubTexture name="front 1 head die0002" x="0" y="953" width="929" height="935" frameX="-227" frameY="-2" frameWidth="1424" frameHeight="1231" />
+<SubTexture name="front 1 head die0003" x="1398" y="0" width="1109" height="937" frameX="-227" frameY="0" frameWidth="1424" frameHeight="1231" />
+<SubTexture name="front 1 head die0004" x="0" y="0" width="1398" height="953" frameX="0" frameY="-82" frameWidth="1424" frameHeight="1231" />
+<SubTexture name="front 1 head die0005" x="0" y="1888" width="444" height="390" frameX="-954" frameY="-82" frameWidth="1424" frameHeight="1231" />
+<SubTexture name="front 1 head die0006" x="444" y="1888" width="446" height="343" frameX="-978" frameY="-122" frameWidth="1424" frameHeight="1231" />
+<SubTexture name="front 1 head die0007" x="1398" y="937" width="1" height="1" frameX="-513" frameY="-322" frameWidth="1424" frameHeight="1231" />
+</TextureAtlas>

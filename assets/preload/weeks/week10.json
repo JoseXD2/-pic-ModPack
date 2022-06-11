@@ -1,0 +1,49 @@
+{
+	"storyName": ":>",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"tel",
+		""
+	],
+	"songs": [
+		[
+			"No-forgiveness",
+			"bf",
+			[
+				255,
+				53,
+				253
+			]
+		],
+		[
+			"War-of-hate",
+			"gf",
+			[
+				255,
+				0,
+				95
+			]
+		],
+		[
+			"Love-and-hate",
+			"bf",
+			[
+				146,
+				213,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

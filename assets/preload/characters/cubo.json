@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-42
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cuboIDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cuboIZQUIERDA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-26
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cuboABAJO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-52
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cuboARRIBA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-47
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cuboDERECHA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				2
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "cuboPINCHO",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cubo",
+	"position": [
+		0,
+		390
+	],
+	"healthicon": "cubo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		55
+	],
+	"camera_position": [
+		10,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

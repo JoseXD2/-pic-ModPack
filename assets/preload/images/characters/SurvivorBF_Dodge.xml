@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SurvivorBF_Dodge.png"><SubTexture name="BF_Down_Dodge instance 0000" x="1936" y="2005" width="349" height="400" frameX="-36" frameY="-46" frameWidth="397" frameHeight="447" />
+<SubTexture name="BF_Down_Dodge instance 0001" x="2360" y="860" width="351" height="404" frameX="-35" frameY="-42" frameWidth="397" frameHeight="447" />
+<SubTexture name="BF_Down_Dodge instance 0002" x="2360" y="1264" width="351" height="403" frameX="-35" frameY="-43" frameWidth="397" frameHeight="447" />
+<SubTexture name="BF_Down_Dodge instance 0003" x="1234" y="2005" width="351" height="402" frameX="-35" frameY="-44" frameWidth="397" frameHeight="447" />
+<SubTexture name="BF_Down_Dodge instance 0004" x="1585" y="2005" width="351" height="402" frameX="-35" frameY="-44" frameWidth="397" frameHeight="447" />
+<SubTexture name="BF_Down_Dodge instance 0005" x="1585" y="2005" width="351" height="402" frameX="-35" frameY="-44" frameWidth="397" frameHeight="447" />
+<SubTexture name="BF_Down_Dodge instance 0006" x="1585" y="2005" width="351" height="402" frameX="-35" frameY="-44" frameWidth="397" frameHeight="447" />
+<SubTexture name="BF_Idle_Dodge instance 0000" x="1677" y="0" width="313" height="438" frameX="-8" frameY="-30" frameWidth="330" frameHeight="469" />
+<SubTexture name="BF_Idle_Dodge instance 0001" x="627" y="1103" width="314" height="467" frameX="-10" frameY="-1" frameWidth="330" frameHeight="469" />
+<SubTexture name="BF_Idle_Dodge instance 0002" x="1333" y="518" width="314" height="468" frameX="-10" frameY="0" frameWidth="330" frameHeight="469" />
+<SubTexture name="BF_Idle_Dodge instance 0003" x="0" y="1103" width="314" height="468" frameX="-10" frameY="0" frameWidth="330" frameHeight="469" />
+<SubTexture name="BF_Idle_Dodge instance 0004" x="314" y="1103" width="313" height="468" frameX="-10" frameY="0" frameWidth="330" frameHeight="469" />
+<SubTexture name="BF_Idle_Dodge instance 0005" x="941" y="1103" width="313" height="467" frameX="-10" frameY="-1" frameWidth="330" frameHeight="469" />
+<SubTexture name="BF_Idle_Dodge instance 0006" x="1254" y="1103" width="313" height="467" frameX="-10" frameY="-1" frameWidth="330" frameHeight="469" />
+<SubTexture name="BF_Left_Dodge instance 0000" x="798" y="2005" width="436" height="417" frameX="0" frameY="-27" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Left_Dodge instance 0001" x="397" y="2005" width="401" height="426" frameX="-36" frameY="-18" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Left_Dodge instance 0002" x="0" y="2005" width="397" height="429" frameX="-41" frameY="-15" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Left_Dodge instance 0003" x="736" y="1571" width="391" height="431" frameX="-46" frameY="-13" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Left_Dodge instance 0004" x="1127" y="1571" width="391" height="431" frameX="-46" frameY="-13" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Left_Dodge instance 0005" x="1518" y="1571" width="392" height="431" frameX="-45" frameY="-13" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Left_Dodge instance 0006" x="1910" y="1571" width="394" height="431" frameX="-44" frameY="-13" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Left_Dodge instance 0007" x="2360" y="0" width="394" height="430" frameX="-43" frameY="-14" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Left_Dodge instance 0008" x="2360" y="430" width="394" height="430" frameX="-43" frameY="-14" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Left_Dodge instance 0009" x="2360" y="430" width="394" height="430" frameX="-43" frameY="-14" frameWidth="438" frameHeight="445" />
+<SubTexture name="BF_Right_Dodge instance 0000" x="1990" y="0" width="370" height="434" frameX="-7" frameY="-6" frameWidth="378" frameHeight="441" />
+<SubTexture name="BF_Right_Dodge instance 0001" x="1990" y="434" width="369" height="434" frameX="-7" frameY="-6" frameWidth="378" frameHeight="441" />
+<SubTexture name="BF_Right_Dodge instance 0002" x="367" y="1571" width="369" height="433" frameX="-7" frameY="-7" frameWidth="378" frameHeight="441" />
+<SubTexture name="BF_Right_Dodge instance 0003" x="1990" y="868" width="368" height="434" frameX="-7" frameY="-6" frameWidth="378" frameHeight="441" />
+<SubTexture name="BF_Right_Dodge instance 0004" x="0" y="1571" width="367" height="434" frameX="-7" frameY="-6" frameWidth="378" frameHeight="441" />
+<SubTexture name="BF_Right_Dodge instance 0005" x="0" y="1571" width="367" height="434" frameX="-7" frameY="-6" frameWidth="378" frameHeight="441" />
+<SubTexture name="BF_Right_Dodge instance 0006" x="0" y="1571" width="367" height="434" frameX="-7" frameY="-6" frameWidth="378" frameHeight="441" />
+<SubTexture name="BF_Right_Dodge instance 0007" x="0" y="1571" width="367" height="434" frameX="-7" frameY="-6" frameWidth="378" frameHeight="441" />
+<SubTexture name="BF_Up_Dodge instance 0000" x="0" y="0" width="301" height="583" frameX="-23" frameY="0" frameWidth="347" frameHeight="584" />
+<SubTexture name="BF_Up_Dodge instance 0001" x="301" y="0" width="346" height="528" frameX="0" frameY="-53" frameWidth="347" frameHeight="584" />
+<SubTexture name="BF_Up_Dodge instance 0002" x="0" y="583" width="345" height="520" frameX="0" frameY="-61" frameWidth="347" frameHeight="584" />
+<SubTexture name="BF_Up_Dodge instance 0003" x="1333" y="0" width="344" height="518" frameX="-1" frameY="-63" frameWidth="347" frameHeight="584" />
+<SubTexture name="BF_Up_Dodge instance 0004" x="689" y="583" width="344" height="519" frameX="-1" frameY="-62" frameWidth="347" frameHeight="584" />
+<SubTexture name="BF_Up_Dodge instance 0005" x="345" y="583" width="344" height="520" frameX="-1" frameY="-61" frameWidth="347" frameHeight="584" />
+<SubTexture name="BF_Up_Dodge instance 0006" x="990" y="0" width="343" height="521" frameX="-1" frameY="-60" frameWidth="347" frameHeight="584" />
+<SubTexture name="BF_Up_Dodge instance 0007" x="647" y="0" width="343" height="522" frameX="-2" frameY="-60" frameWidth="347" frameHeight="584" />
+<SubTexture name="BF_Up_Dodge instance 0008" x="647" y="0" width="343" height="522" frameX="-1" frameY="-60" frameWidth="347" frameHeight="584" />
+</TextureAtlas>

@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bussin.png"><SubTexture name="BusN0000" x="0" y="0" width="3154" height="906" frameX="-11" frameY="0" frameWidth="3172" frameHeight="909" />
+</TextureAtlas>

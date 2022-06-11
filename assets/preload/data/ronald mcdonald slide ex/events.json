@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage",
+		"player1": "bf-ex",
+		"player2": "ron-ex",
+		"player3": null,
+		"events": [
+			[
+				21100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"heman"
+					]
+				]
+			],
+			[
+				27282.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ron-ex"
+					]
+				]
+			],
+			[
+				116100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sans"
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ron-ex"
+					]
+				]
+			],
+			[
+				226400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"thiccbf"
+					]
+				]
+			],
+			[
+				227200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-ex"
+					]
+				]
+			],
+			[
+				229602.5,
+				[
+					[
+						"Change Character",
+						"dad",
+						"rondumpy"
+					]
+				]
+			],
+			[
+				229672.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-ex"
+					]
+				]
+			],
+			[
+				230360,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-ex"
+					]
+				]
+			],
+			[
+				230400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ron-ex"
+					]
+				]
+			],
+			[
+				232800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"thiccbf"
+					]
+				]
+			],
+			[
+				233600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-ex"
+					]
+				]
+			],
+			[
+				236000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"thiccbf"
+					]
+				]
+			],
+			[
+				236800,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-ex"
+					]
+				]
+			],
+			[
+				261100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"npesta"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ex",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "ronald-mcdonald-slide"
+	}
+}

@@ -1,0 +1,1 @@
+ATTACK PREPARE ON LUA. Note : this doesn't work as well since it doesn't repeat when you put a bunch of event together so yeah.

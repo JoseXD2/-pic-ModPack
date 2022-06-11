@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Chara",
+	"image": "chara",
+	"position": [
+		175,
+		-17
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

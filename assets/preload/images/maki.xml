@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="maki.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="maki0000" x="1665" y="0" width="0" height="0" frameX="0" frameY="-19" frameWidth="185" frameHeight="347"/>
+</TextureAtlas>

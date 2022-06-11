@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bfhd",
+			"boxState": "angry",
+			"expression": "Run Idle",
+			"text": "SONIC MY MAN, I DON'T KNOW HOW I'M KEEPIN' UP WITH YOU RIGHT NOW..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfhd",
+			"boxState": "angry",
+			"expression": "Run Idle",
+			"text": "BUT I'M STARTING TO GET EXHAUSTED!!\r"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "angry",
+			"expression": "run",
+			"text": "WELL THEN WHY DID YOU COME ALONG? YOU'RE IN MY WORLD AND YOU'RE GETTING TIRED?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Sonic",
+			"boxState": "angry",
+			"expression": "run",
+			"text": "SORRY TO TELL YOU BUT THAT CAN'T FLY HERE. WHAT EXACTLY BROUGHT YOU HERE?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfhd",
+			"boxState": "angry",
+			"expression": "Run Idle",
+			"text": "I DON'T KNOW WHY I'M HERE, BUT I COULDN'T HAVE ASKED FOR A BETTER PLACE TO BE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfhd",
+			"boxState": "normal",
+			"expression": "Run Idle",
+			"text": "Ever since I was a kid, I looked up to how courageous and strong you are. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfhd",
+			"boxState": "normal",
+			"expression": "Run Idle",
+			"text": "No matter how dire the stakes are, you always go in with no worries! You're everything I'm not."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfhd",
+			"boxState": "normal",
+			"expression": "Run Sad",
+			"text": "I WANT TO HELP PEOPLE OUTSIDE OF MUSIC! I want to be strong for my girl..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfhd",
+			"boxState": "normal",
+			"expression": "Run Sad",
+			"text": "But everytime she's in a bad situation, I'm helpless. All I can do is rap and sing and hope to win."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfhd",
+			"boxState": "angry",
+			"expression": "Run Idle",
+			"text": "I'M TIRED OF BEIN' WEAK, SONIC! I WANNA BE STRONG AND PROTECT THOSE I LOVE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "run",
+			"text": "I understand that. But you have to know that my line of work is FAR more complex than just dealing with drama."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "run",
+			"text": "Your best way of becoming strong is going past your limits, pushing boundaries you didn't even know existed!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bfhd",
+			"boxState": "angry",
+			"expression": "Run Idle",
+			"text": "I'LL DO ANYTHING DAWG, JUST...JUST TELL ME WHAT I CAN DO!"
+		}
+	]
+}

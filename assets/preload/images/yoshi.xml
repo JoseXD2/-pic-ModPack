@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yoshi.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yoshi0000" x="186" y="361" width="0" height="0" frameX="-23" frameY="-23" frameWidth="368" frameHeight="363"/>
+</TextureAtlas>

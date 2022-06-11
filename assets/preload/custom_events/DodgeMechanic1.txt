@@ -1,0 +1,6 @@
+Activates a dodge mechanic in game.
+
+Type true in value 1 if you want instakill.
+Value 2 does nothing.
+
+Code by Doctor Krazy.

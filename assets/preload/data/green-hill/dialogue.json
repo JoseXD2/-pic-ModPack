@@ -1,0 +1,221 @@
+{
+	"dialogue": [
+		{
+			"expression": "no one",
+			"text": "Hey...'ay man! ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "no one",
+			"text": "You conscious dude?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "no one",
+			"text": ". . .",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "shocked",
+			"text": "!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "upset",
+			"text": "The hell?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "upset",
+			"text": "How Did I get outside?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "upset",
+			"text": "What's Goin on?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "no one",
+			"text": "You're in MY court now, lil dude!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "shocked",
+			"text": "HUH!?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "talk",
+			"text": "Sorry about that!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "talk",
+			"text": "You were in the way of my daily lap around Green Hill.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "talk",
+			"text": "I tried stopping before I ran into you, but I guess my momentum still carried for a bit.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "laugh",
+			"text": "You good though? You looked pretty out of it.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "shocked",
+			"text": "NAHNAHNAHNAHNAH NAH.",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "shocked",
+			"text": "You can't just come around and start acting like this is a common occurance...",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "Star Struck",
+			"text": "YOU'RE SONIC THE FUCKIN' HEDGEHOG!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "talk",
+			"text": "Yep, I'm no one special, just a dude who loves to chill and do good.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "shocked",
+			"text": "NO ONE SPECIAL??",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "Talk",
+			"text": "You've saved the world on a multitude of occasions, you run faster than the speed of sound,",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "Talk",
+			"text": "And don't even get me started on you grabbin' the Chaos Emeralds. SUPER SAIYAN SHIT BRUH!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "Talk",
+			"text": "Not to mention you do all this NAKED! IT'S SO COOL!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "blush",
+			"text": "Well when you put it like that...I guess I AM someone special, heh.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "Talk",
+			"text": "I've always wanted to be like you, ever since I was younger. My whole fit's based on your image in some ways!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "laugh",
+			"text": "Never thought I'd meet someone as dedicated as you...a bit strange in all honesty.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "talk",
+			"text": "Say, what's your favorite past time?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "upset",
+			"text": "Honestly? Rapping.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "confused",
+			"text": "It's all I've been doing for the past few months. Just bein' on the grind y'know?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "talk",
+			"text": "Aw yeah! I love rap, I jam out to it constantly! I also do a little bit of free styling when I'm bored.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "Talk",
+			"text": "Yee yee, I've seen you emcee in some commercials before! I wanna see if it was all bluff.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bfhd"
+		},
+		{
+			"expression": "confused",
+			"text": "Commercials? That probably wasn't me, I hate public speaking and all that stuff!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		},
+		{
+			"expression": "talk",
+			"text": "If you're tryna rap though, then let's chill and jam out! I've got nothin' but time.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sonic"
+		}
+	]
+}

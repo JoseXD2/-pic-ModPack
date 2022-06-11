@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eggman.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EGGMAN0000" x="0" y="0" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0001" x="0" y="0" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0002" x="1010" y="0" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0003" x="1010" y="0" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0004" x="2020" y="0" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0005" x="2020" y="0" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0006" x="3030" y="0" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0007" x="3030" y="0" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0008" x="0" y="656" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0009" x="0" y="656" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0010" x="1010" y="656" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0011" x="1010" y="656" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0012" x="2020" y="656" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0013" x="3030" y="656" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0014" x="0" y="1312" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0015" x="0" y="1312" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0016" x="1010" y="1312" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0017" x="1010" y="1312" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0018" x="2020" y="1312" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0019" x="2020" y="1312" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0020" x="3030" y="1312" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0021" x="3030" y="1312" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0022" x="0" y="1968" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0023" x="0" y="1968" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0024" x="1010" y="1968" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0025" x="1010" y="1968" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0026" x="2020" y="1968" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0027" x="2020" y="1968" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0028" x="3030" y="1968" width="1010" height="656"/>
+	<SubTexture name="EGGMAN0029" x="3030" y="1968" width="1010" height="656"/>
+</TextureAtlas>

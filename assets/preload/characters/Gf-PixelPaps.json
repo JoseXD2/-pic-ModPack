@@ -1,0 +1,232 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "GF IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "GF LEFT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "GF UP MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "GF RIGHT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF DOWN NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "GF DOWN MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"anim": "idle-alt",
+			"fps": 21,
+			"name": "GF scared",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "GF ALT LEFT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "GF ALT UP NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "GF ALT RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "GF ALT DOWN NOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "Sans lessgo",
+			"fps": 22,
+			"name": "GF Yeah",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "Mad",
+			"fps": 22,
+			"name": "GF Bruh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"anim": "idle-alt-2",
+			"fps": 21,
+			"name": "GF Bruh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "more Mad",
+			"indices": [],
+			"name": "GF LEFT MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "Oh Sans you",
+			"indices": [],
+			"name": "GF DOWN MISS"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/PixelGf-Papyrus",
+	"position": [
+		10,
+		330
+	],
+	"healthicon": "PixelGf-Xmas",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		40,
+		86
+	],
+	"camera_position": [
+		10,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-33,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF NOTE LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF NOTE UP"
+		},
+		{
+			"offsets": [
+				49,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-11,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN"
+		},
+		{
+			"offsets": [
+				18,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "alt left lol"
+		},
+		{
+			"offsets": [
+				1,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "alt down lol"
+		},
+		{
+			"offsets": [
+				-34,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "alt right lol"
+		},
+		{
+			"offsets": [
+				-10,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "alt up lol"
+		},
+		{
+			"offsets": [
+				19,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "bf what"
+		},
+		{
+			"offsets": [
+				29,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt-2",
+			"indices": [],
+			"name": "BF lets go"
+		},
+		{
+			"offsets": [
+				10,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Sans lessgo",
+			"indices": [],
+			"name": "BF HEY!!"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Mad",
+			"indices": [],
+			"name": "bf bruh"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "more Mad",
+			"indices": [],
+			"name": "bf bruh"
+		},
+		{
+			"offsets": [
+				11,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Oh Sans you",
+			"indices": [],
+			"name": "bf seriously"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfneo",
+	"position": [
+		60,
+		340
+	],
+	"healthicon": "bfneo",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		255,
+		155
+	],
+	"camera_position": [
+		30,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

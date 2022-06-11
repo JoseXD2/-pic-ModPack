@@ -1,0 +1,11 @@
+{
+	"idle_anim": "menu_neo",
+	"image": "menu_neo",
+	"position": [
+		60,
+		-30
+	],
+	"flipX": true,
+	"scale": 0.65,
+	"confirm_anim": "M Dad Idle"
+}

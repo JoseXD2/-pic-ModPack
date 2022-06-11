@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PicoDeath.png"><SubTexture name="PicoGameOver0000" x="797" y="0" width="714" height="585" frameX="-37" frameY="-13" frameWidth="808" frameHeight="649" />
+<SubTexture name="PicoGameOver0001" x="0" y="590" width="797" height="522" frameX="-1" frameY="-126" frameWidth="808" frameHeight="649" />
+<SubTexture name="PicoRetryConfirm0000" x="0" y="0" width="797" height="590" frameX="0" frameY="-58" frameWidth="798" frameHeight="649" />
+</TextureAtlas>

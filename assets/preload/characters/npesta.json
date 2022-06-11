@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-62,
+				-58
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Npesta idle dance"
+		},
+		{
+			"offsets": [
+				9,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Npesta Sing Note UP"
+		},
+		{
+			"offsets": [
+				26,
+				-53
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Npesta Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				4,
+				-112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Npesta Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-36,
+				-74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Npesta Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/npesta",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ron-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

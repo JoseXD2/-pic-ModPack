@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-290
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "QT idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-290
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "QT sing LE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-287
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "QT sing D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-290
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "QT sing R",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-294
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "QT sing U",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/qt-remastered",
+	"position": [
+		510,
+		100
+	],
+	"healthicon": "nq",
+	"flip_x": true,
+	"healthbar_colors": [
+		39,
+		39,
+		39
+	],
+	"camera_position": [
+		-320,
+		300
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

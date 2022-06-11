@@ -1,0 +1,31 @@
+{
+	"storyName": "subway solitude",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "soff",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"promise",
+			"grace",
+			[
+				146,
+				13,
+				113
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "soff"
+}

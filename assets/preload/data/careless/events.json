@@ -1,0 +1,374 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "neo-road",
+		"player1": "bf-neo",
+		"player2": "qt-neo",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"1"
+					]
+				]
+			],
+			[
+				3692.30769230769,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.4"
+					]
+				]
+			],
+			[
+				14769.2307692308,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"1"
+					]
+				]
+			],
+			[
+				15576.9230769231,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.4"
+					]
+				]
+			],
+			[
+				16615.3846153846,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"1"
+					]
+				]
+			],
+			[
+				17423.0769230769,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				18461.5384615385,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"1"
+					]
+				]
+			],
+			[
+				19269.2307692308,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.4"
+					]
+				]
+			],
+			[
+				20307.6923076923,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"0.9"
+					]
+				]
+			],
+			[
+				21115.3846153846,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.6"
+					]
+				]
+			],
+			[
+				22153.8461538462,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				22846.1538461538,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						"0.5"
+					]
+				]
+			],
+			[
+				24692.3076923077,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.4"
+					]
+				]
+			],
+			[
+				25846.1538461539,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"0.4"
+					]
+				]
+			],
+			[
+				32307.6923076923,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.5"
+					],
+					[
+						"Cool thing",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"qtflip"
+					],
+					[
+						"Change Character",
+						"0",
+						"bfflip"
+					]
+				]
+			],
+			[
+				32769.2307692308,
+				[
+					[
+						"Cool thing",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-neo"
+					],
+					[
+						"Change Character",
+						"1",
+						"qt-neo"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfflip"
+					],
+					[
+						"Change Character",
+						"1",
+						"qtflip"
+					],
+					[
+						"Cool thing",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				36461.5384615385,
+				[
+					[
+						"Change Character",
+						"1",
+						"qt-neo"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-neo"
+					],
+					[
+						"Cool thing",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				39692.3076923077,
+				[
+					[
+						"Change Character",
+						"0",
+						"bfflip"
+					],
+					[
+						"Change Character",
+						"1",
+						"qtflip"
+					],
+					[
+						"Cool thing",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				40153.8461538462,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-neo"
+					],
+					[
+						"Change Character",
+						"1",
+						"qt-neo"
+					],
+					[
+						"Cool thing",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				43384.6153846154,
+				[
+					[
+						"Change Character",
+						"1",
+						"qtflip"
+					],
+					[
+						"Change Character",
+						"0",
+						"bfflip"
+					],
+					[
+						"Cool thing",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				43846.1538461538,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-neo"
+					],
+					[
+						"Change Character",
+						"1",
+						"qt-neo"
+					],
+					[
+						"Cool thing",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				44307.6923076923,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"1.22"
+					]
+				]
+			],
+			[
+				51692.3076923077,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				88615.3846153846,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"0.5"
+					]
+				]
+			],
+			[
+				118153.846153846,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-neo",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Careless"
+	}
+}

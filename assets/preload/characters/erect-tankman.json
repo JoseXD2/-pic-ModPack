@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tankman Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				-48
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tankman DOWN note instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tankman Right Note instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				54
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tankman Note Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				65
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "TANKMAN UGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				96
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Alright tankman",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tankman UP note instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tankman_Assets",
+	"position": [
+		81,
+		299
+	],
+	"healthicon": "tankman-erect",
+	"flip_x": true,
+	"healthbar_colors": [
+		35,
+		48,
+		44
+	],
+	"camera_position": [
+		-128,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

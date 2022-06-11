@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bob_expurgation.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="76" y="2693" width="498" height="562"/>
+	<SubTexture name="Idle0001" x="787" y="2707" width="459" height="559"/>
+	<SubTexture name="Idle0002" x="1421" y="2843" width="459" height="559"/>
+	<SubTexture name="Idle0003" x="2221" y="2773" width="484" height="572"/>
+	<SubTexture name="singDOWN0000" x="56" y="1545" width="885" height="521" frameX="0" frameY="0" frameWidth="1039" frameHeight="649"/>
+	<SubTexture name="singDOWN0001" x="987" y="1565" width="877" height="515" frameX="-94" frameY="0" frameWidth="1039" frameHeight="649"/>
+	<SubTexture name="singDOWN0002" x="1905" y="1596" width="862" height="484" frameX="-65" frameY="0" frameWidth="1039" frameHeight="649"/>
+	<SubTexture name="singLEFT0000" x="77" y="2137" width="632" height="484"/>
+	<SubTexture name="singLEFT0001" x="967" y="2081" width="607" height="520"/>
+	<SubTexture name="singLEFT0002" x="1729" y="2261" width="627" height="445"/>
+	<SubTexture name="singRIGHT0000" x="49" y="0" width="1020" height="666" frameX="0" frameY="0" frameWidth="1233" frameHeight="700"/>
+	<SubTexture name="singRIGHT0001" x="1115" y="0" width="1028" height="677" frameX="0" frameY="0" frameWidth="1233" frameHeight="700"/>
+	<SubTexture name="singRIGHT0002" x="2447" y="0" width="990" height="677" frameX="0" frameY="0" frameWidth="1233" frameHeight="700"/>
+	<SubTexture name="singUP0000" x="0" y="793" width="1034" height="683" frameX="-135" frameY="0" frameWidth="1159" frameHeight="817"/>
+	<SubTexture name="singUP0001" x="1035" y="794" width="997" height="710" frameX="-6" frameY="-74" frameWidth="1159" frameHeight="817"/>
+	<SubTexture name="singUP0002" x="2144" y="795" width="1031" height="699" frameX="-52" frameY="-98" frameWidth="1159" frameHeight="817"/>
+</TextureAtlas>

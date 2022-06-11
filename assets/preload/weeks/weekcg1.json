@@ -1,0 +1,43 @@
+{
+	"storyName": "CASSETE GIRL MOD",
+	"hideFreeplay": false,
+	"weekBackground": "cgstage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ukiyo",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"earworm",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"machina",
+			"cg",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week cg"
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="missle.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="missle0000" x="0" y="0" width="311" height="235" frameX="-2123" frameY="-57" frameWidth="2931" frameHeight="384"/>
+	<SubTexture name="missle0001" x="313" y="0" width="809" height="384" frameX="-2074" frameY="0" frameWidth="2931" frameHeight="384"/>
+</TextureAtlas>

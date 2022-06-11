@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scott.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="930" y="5" width="891" height="535"/>
+	<SubTexture name="idle0000" x="930" y="550" width="943" height="632"/>
+	<SubTexture name="left0000" x="5" y="1192" width="995" height="546"/>
+	<SubTexture name="phone0000" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0001" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0002" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0003" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0004" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0005" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0006" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0007" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0008" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0009" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0010" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0011" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0012" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0013" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="phone0014" x="1883" y="5" width="991" height="684"/>
+	<SubTexture name="right0000" x="5" y="5" width="915" height="586"/>
+	<SubTexture name="up0000" x="1883" y="699" width="957" height="720"/>
+</TextureAtlas>

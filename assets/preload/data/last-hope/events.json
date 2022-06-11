@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "lastroom",
+		"player1": "bf",
+		"player2": "taeyai-evil",
+		"player3": null,
+		"events": [
+			[
+				142702.702702703,
+				[
+					[
+						"Play Animation",
+						"i do",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": null,
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Last-Hope"
+	}
+}

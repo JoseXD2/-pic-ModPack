@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-59
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RON_IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-64
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RON_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1240,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RON_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				335,
+				13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RON_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-89
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RON_UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stupid_dumb_ex",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ron-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-101,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

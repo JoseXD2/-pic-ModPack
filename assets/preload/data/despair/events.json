@@ -1,0 +1,54 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "bendy-dem",
+		"player1": "bf-amarillito",
+		"player2": "bendy-dem",
+		"player3": null,
+		"events": [
+			[
+				6400,
+				[
+					[
+						"Set Cam Zoom",
+						"0.55",
+						"1"
+					]
+				]
+			],
+			[
+				103680,
+				[
+					[
+						"Play Animation",
+						"2",
+						""
+					],
+					[
+						"Flashes Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				103760,
+				[
+					[
+						"Set Cam Zoom",
+						"0.45",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFAYU",
+		"bpm": 187.5,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "despair"
+	}
+}

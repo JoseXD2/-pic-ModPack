@@ -1,0 +1,30 @@
+{
+	"storyName": "The fight for control",
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"blue balled",
+			"bf@",
+			[
+				126,
+				153,
+				213
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "week@"
+}

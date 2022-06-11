@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Carefree",
+			"nq",
+			[
+				166,
+				255,
+				215
+			]
+		],
+		[
+			"Careless",
+			"nq",
+			[
+				166,
+				255,
+				215
+			]
+		],
+		[
+			"Censory-Overload",
+			"neokb",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "neoqt",
+	"difficulties": "Neo",
+	"weekCharacters": [
+		"qt",
+		"neobf",
+		"neogf"
+	],
+	"storyName": "Plaza",
+	"weekName": "Plaza",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

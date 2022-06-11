@@ -1,0 +1,31 @@
+{
+	"storyName": "Fruit Ninja Funkin",
+	"difficulties": "Hard, Master",
+	"hideFreeplay": false,
+	"weekBackground": "dojo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bfkatanamenu",
+		""
+	],
+	"songs": [
+		[
+			"Fruity",
+			"katanabf",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Dojo Week"
+}

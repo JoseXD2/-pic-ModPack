@@ -1,0 +1,200 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "luisfernan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A few minutes before."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_2",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "FOR WHAT!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep oop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it's that stupid girlfriend that's keeping you away from me??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "behp"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...no matter..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..i'll just manifest her away"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep o poo?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IT MEANS YOUR PRECIOUS LITTLE GIRLFRIEND IS GOOD AS GONE."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "FOR GOOD!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "luisfernan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "* sky transforms *"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_mad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "you stole Boyfriend away from me.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_mad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "and now. you. will. PAY"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ah. Que the obligatory last song transformation."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_mad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU SHUT UP!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfport",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ha. you manifest crusifixions but can't manifest any guys."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_mad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'LL MAKE YOU EAT THOSE WORDS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gfport",
+			"boxState": "normal",
+			"expression": "fuckyou",
+			"text": "Go shift to Danganronpa you dweeb  ;P"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok GF, i think your being a bit mean don't you think.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't you worry my sweet boyfriend."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sky_mad",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "You won't ever have to worry about her rude ass no longer"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Woah! Now how about we just sit down and talk??"
+		}
+	]
+}

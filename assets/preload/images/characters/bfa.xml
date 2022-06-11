@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfa.png">
+	<!-- Optimized by NT846 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="5" y="5" width="446" height="551" frameX="-7" frameY="0" frameWidth="466" frameHeight="556"/>
+	<SubTexture name="Idle0000" x="5" y="566" width="419" height="549" frameX="-10" frameY="0" frameWidth="429" frameHeight="549"/>
+	<SubTexture name="Left0000" x="434" y="566" width="448" height="554" frameX="-9" frameY="-1" frameWidth="462" frameHeight="561"/>
+	<SubTexture name="Right0000" x="892" y="5" width="424" height="553" frameX="0" frameY="0" frameWidth="450" frameHeight="553"/>
+	<SubTexture name="Up0000" x="892" y="568" width="430" height="560" frameX="-5" frameY="-19" frameWidth="435" frameHeight="579"/>
+	<SubTexture name="uzgun0000" x="461" y="5" width="395" height="551" frameX="0" frameY="0" frameWidth="536" frameHeight="685"/>
+</TextureAtlas>

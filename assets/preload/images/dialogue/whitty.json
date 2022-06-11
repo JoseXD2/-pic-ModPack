@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		110,
+		0
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "whitty1",
+			"idle_name": "whitty1"
+		},
+		{
+			"loop_name": "whitty2",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "whitty2",
+			"anim": "talk2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "whitty"
+}

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "BF idle dance",
+	"position": [
+		60,
+		105
+	],
+	"scale": 0.65,
+	"image": "Menu_BF-sonic",
+	"flipX": false
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				-120
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "NightmareSkyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-104
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "NightmareSkyLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				-63
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "NightmareSkyUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				-104
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "NightmareSkyRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-273
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "NightmareSkyDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NightmareSky",
+	"position": [
+		210,
+		-170
+	],
+	"healthicon": "nightmaresky",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-230,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PibbyTwilightv2.png"><SubTexture name="Twi_Down instance 0000" x="755" y="1697" width="774" height="465" frameX="-107" frameY="-99" frameWidth="905" frameHeight="623" />
+<SubTexture name="Twi_Down instance 0001" x="0" y="1697" width="755" height="466" frameX="-126" frameY="-100" frameWidth="905" frameHeight="623" />
+<SubTexture name="Twi_FriendshipProblem_LASER instance 0000" x="1564" y="564" width="530" height="541" frameX="-22" frameY="-179" frameWidth="818" frameHeight="723" />
+<SubTexture name="Twi_Idle instance 0000" x="0" y="1173" width="573" height="524" frameX="-6" frameY="-3" frameWidth="603" frameHeight="527" />
+<SubTexture name="Twi_Left instance 0000" x="1529" y="1173" width="475" height="515" frameX="-3" frameY="-3" frameWidth="478" frameHeight="529" />
+<SubTexture name="Twi_Left instance 0001" x="573" y="1173" width="478" height="519" frameX="0" frameY="0" frameWidth="478" frameHeight="529" />
+<SubTexture name="Twi_Left instance 0002" x="1051" y="1173" width="478" height="517" frameX="0" frameY="-2" frameWidth="478" frameHeight="529" />
+<SubTexture name="Twi_Right instance 0000" x="1564" y="0" width="684" height="564" frameX="-48" frameY="-2" frameWidth="751" frameHeight="566" />
+<SubTexture name="Twi_Right instance 0001" x="0" y="607" width="682" height="566" frameX="-50" frameY="0" frameWidth="751" frameHeight="566" />
+<SubTexture name="Twi_Right instance 0002" x="682" y="607" width="685" height="565" frameX="-48" frameY="-1" frameWidth="751" frameHeight="566" />
+<SubTexture name="Twi_Up instance 0000" x="0" y="0" width="519" height="607" frameX="-46" frameY="-55" frameWidth="585" frameHeight="684" />
+<SubTexture name="Twi_Up instance 0001" x="1041" y="0" width="523" height="579" frameX="-40" frameY="-75" frameWidth="585" frameHeight="684" />
+<SubTexture name="Twi_Up instance 0002" x="519" y="0" width="522" height="581" frameX="-41" frameY="-73" frameWidth="585" frameHeight="684" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="txt_YEA.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="txt_YEA0000" x="0" y="0" width="671" height="502" frameX="-1" frameY="0" frameWidth="672" frameHeight="502"/>
+	<SubTexture name="txt_YEA0001" x="0" y="0" width="671" height="502" frameX="-1" frameY="0" frameWidth="672" frameHeight="502"/>
+	<SubTexture name="txt_YEA0002" x="0" y="504" width="640" height="476" frameX="0" frameY="0" frameWidth="672" frameHeight="502"/>
+	<SubTexture name="txt_YEA0003" x="0" y="504" width="640" height="476" frameX="0" frameY="0" frameWidth="672" frameHeight="502"/>
+	<SubTexture name="txt_YEA0004" x="0" y="504" width="640" height="476" frameX="0" frameY="0" frameWidth="672" frameHeight="502"/>
+</TextureAtlas>

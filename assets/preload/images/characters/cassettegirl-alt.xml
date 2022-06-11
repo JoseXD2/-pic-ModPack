@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cassettegirl-alt.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cassettegirl down alt0000" x="5" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0001" x="5" y="5" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl down alt0002" x="308" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0003" x="308" y="5" width="293" height="376"/>
+	
+	<SubTexture name="cassettegirl down alt0004" x="611" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0005" x="611" y="5" width="293" height="376"/>
+	
+	<SubTexture name="cassettegirl down alt0006" x="914" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0007" x="914" y="5" width="293" height="376"/>
+	
+	<SubTexture name="cassettegirl down alt0008" x="1217" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0009" x="1217" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0010" x="1217" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0011" x="1217" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0012" x="1217" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0013" x="1217" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl down alt0014" x="1217" y="5" width="293" height="376"/>
+	
+	
+	
+	
+	
+	
+	<SubTexture name="cassettegirl idle alt0000" x="5" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl idle alt0001" x="5" y="391" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl idle alt0002" x="611" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl idle alt0003" x="611" y="391" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl idle alt0004" x="914" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl idle alt0005" x="914" y="391" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl idle alt0006" x="1217" y="391" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl idle alt0007" x="5" y="777" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl idle alt0008" x="308" y="777" width="293" height="376"/>
+	<SubTexture name="cassettegirl idle alt0009" x="308" y="777" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl idle alt0010" x="308" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl idle alt0011" x="308" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl idle alt0012" x="308" y="391" width="293" height="376"/>
+	
+	
+	
+	
+	
+	
+	<SubTexture name="cassettegirl left alt0000" x="611" y="777" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0001" x="611" y="777" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl left alt0002" x="1217" y="777" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0003" x="1217" y="777" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl left alt0004" x="5" y="1163" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0005" x="5" y="1163" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0006" x="5" y="1163" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl left alt0007" x="308" y="1163" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0008" x="308" y="1163" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0009" x="308" y="1163" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl left alt0010" x="914" y="777" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0011" x="914" y="777" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0012" x="914" y="777" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0013" x="914" y="777" width="293" height="376"/>
+	<SubTexture name="cassettegirl left alt0014" x="914" y="777" width="293" height="376"/>
+	
+	
+	
+	
+	<SubTexture name="cassettegirl right alt0000" x="611" y="1163" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0001" x="611" y="1163" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl right alt0002" x="914" y="1163" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0003" x="914" y="1163" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl right alt0004" x="1217" y="1163" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0005" x="1217" y="1163" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl right alt0006" x="1520" y="5" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0007" x="1520" y="5" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl right alt0008" x="1520" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0009" x="1520" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0010" x="1520" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0011" x="1520" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0012" x="1520" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0013" x="1520" y="391" width="293" height="376"/>
+	<SubTexture name="cassettegirl right alt0014" x="1520" y="391" width="293" height="376"/>
+	
+	
+	
+	
+	<SubTexture name="cassettegirl up alt0000" x="1520" y="777" width="293" height="376"/>
+	<SubTexture name="cassettegirl up alt0001" x="1520" y="777" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl up alt0002" x="1520" y="1163" width="293" height="376"/>
+	<SubTexture name="cassettegirl up alt0003" x="1520" y="1163" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl up alt0004" x="5" y="1549" width="293" height="376"/>
+	<SubTexture name="cassettegirl up alt0005" x="5" y="1549" width="293" height="376"/>
+	<SubTexture name="cassettegirl up alt0006" x="5" y="1549" width="293" height="376"/>
+	
+	
+	<SubTexture name="cassettegirl up alt0007" x="308" y="1549" width="293" height="376"/>
+	<SubTexture name="cassettegirl up alt0008" x="308" y="1549" width="293" height="376"/>
+	<SubTexture name="cassettegirl up alt0009" x="308" y="1549" width="293" height="376"/>
+	
+</TextureAtlas>

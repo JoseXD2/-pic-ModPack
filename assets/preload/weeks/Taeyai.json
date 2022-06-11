@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Open System",
+			"taeyai",
+			[
+				102,
+				102,
+				102
+			]
+		],
+		[
+			"Wear A Mask",
+			"taeyai",
+			[
+				102,
+				102,
+				102
+			]
+		],
+		[
+			"Last Hope",
+			"taeyai-evil",
+			[
+				102,
+				102,
+				102
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"taeyai",
+		"bf",
+		"gf"
+	],
+	"storyName": "Cyber Sensation",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

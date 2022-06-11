@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "stage",
+		"player1": "bf-ex",
+		"player2": "bo-ex",
+		"player3": null,
+		"events": [
+			[
+				30000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"littleman"
+					]
+				]
+			],
+			[
+				38000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-ex"
+					]
+				]
+			],
+			[
+				86000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bob_tricky"
+					]
+				]
+			],
+			[
+				86103.125,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bo-ex"
+					]
+				]
+			],
+			[
+				102090.625,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				118000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"elpepe"
+					]
+				]
+			],
+			[
+				135750,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-ex"
+					]
+				]
+			],
+			[
+				164750,
+				[
+					[
+						"Change Character",
+						"bf",
+						"mydad"
+					]
+				]
+			],
+			[
+				172000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-ex"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ex",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Jump-out"
+	}
+}

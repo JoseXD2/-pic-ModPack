@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		80,
+		30
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Neo pico new dialouge instance",
+			"idle_name": "Neo pico new dialouge instance 0015"
+		},
+		{
+			"loop_name": "Neo pico new dialouge shit three",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo pico new dialouge shit three",
+			"anim": "talk2",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo pico new dialouge shit one",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo pico new dialouge shit one",
+			"anim": "talk1",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo pico new dialouge shit two",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo pico new dialouge shit two",
+			"anim": "talk3",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo pico new dialouge shit fuck you",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo pico new dialouge shit fuck you",
+			"anim": "talk4",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo pico new dialouge shit five",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo pico new dialouge shit five",
+			"anim": "talk5",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo pico new dialouge shit six",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo pico new dialouge shit six",
+			"anim": "talk6",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo pico new dialouge shit seven",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo pico new dialouge shit seven",
+			"anim": "talk7",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "pico"
+}

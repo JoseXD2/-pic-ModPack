@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfScott.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dMiss0000" x="0" y="0" width="259" height="236"/>
+	<SubTexture name="dMiss0001" x="289" y="0" width="259" height="236"/>
+	<SubTexture name="down0000" x="578" y="0" width="272" height="244"/>
+	<SubTexture name="idle0000" x="604" y="548" width="220" height="244"/>
+	<SubTexture name="lMiss0000" x="250" y="1096" width="257" height="268"/>
+	<SubTexture name="lMiss0001" x="537" y="1096" width="257" height="268"/>
+	<SubTexture name="left0000" x="824" y="1096" width="319" height="251"/>
+	<SubTexture name="rMiss0000" x="1396" y="1675" width="298" height="258"/>
+	<SubTexture name="rMiss0001" x="1724" y="1675" width="298" height="258"/>
+	<SubTexture name="right0000" x="0" y="1963" width="328" height="245"/>
+	<SubTexture name="uMiss0000" x="716" y="2513" width="298" height="274"/>
+	<SubTexture name="uMiss0001" x="1044" y="2513" width="298" height="274"/>
+	<SubTexture name="up0000" x="1372" y="2513" width="287" height="266"/>
+</TextureAtlas>

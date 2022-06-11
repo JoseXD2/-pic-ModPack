@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SUPER_SONIC_BETA.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONIC IDLE0000" x="0" y="0" width="567" height="424" frameX="-24" frameY="-2" frameWidth="567" frameHeight="424"/>
+	<SubTexture name="SONIC DOWN0000" x="1078" y="0" width="622" height="495" frameX="0" frameY="0" frameWidth="622" frameHeight="495"/>
+	<SubTexture name="SONIC LEFT0000" x="0" y="428" width="622" height="495" frameX="0" frameY="0" frameWidth="622" frameHeight="495"/>
+	<SubTexture name="SONIC RIGHT0000" x="609" y="499" width="525" height="576" frameX="-9" frameY="0" frameWidth="525" frameHeight="576"/>
+	<SubTexture name="SONIC UP0000" x="567" y="0" width="503" height="495" frameX="-3" frameY="0" frameWidth="503" frameHeight="495"/>
+</TextureAtlas>

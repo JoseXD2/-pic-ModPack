@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EddTurnToTord.png">
+<SubTexture name="Idle0000" x="1600" y="0" width="540" height="594" frameX="-1" frameY="-12" frameWidth="541" frameHeight="607" />
+</TextureAtlas>

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "stage",
+		"player1": "bf-ex",
+		"player2": "bluskys-ex",
+		"player3": null,
+		"events": [
+			[
+				127411.764705882,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tweet"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ex",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Groovy Brass"
+	}
+}

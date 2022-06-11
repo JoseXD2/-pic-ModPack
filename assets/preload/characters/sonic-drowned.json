@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "RETRY CONFIRM",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Retry Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF Dies pixel",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonic-drowned",
+	"position": [
+		-418,
+		20
+	],
+	"healthicon": "gone",
+	"flip_x": true,
+	"healthbar_colors": [
+		56,
+		135,
+		0
+	],
+	"camera_position": [
+		-10,
+		148
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

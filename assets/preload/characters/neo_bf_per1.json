@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				47,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				45,
+				-15
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				67,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-24
+			],
+			"anim": "pass",
+			"fps": 24,
+			"name": "Bf passing out",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle_Flip"
+		},
+		{
+			"offsets": [
+				56,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing_Left_Flip"
+		},
+		{
+			"offsets": [
+				24,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing_Down_Flip"
+		},
+		{
+			"offsets": [
+				-69,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing_Up_Flip"
+		},
+		{
+			"offsets": [
+				-23,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing_Right_Flip"
+		},
+		{
+			"offsets": [
+				67,
+				109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left_Miss_Flip"
+		},
+		{
+			"offsets": [
+				35,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down_Miss_Flip"
+		},
+		{
+			"offsets": [
+				-60,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up_Miss_Flip"
+		},
+		{
+			"offsets": [
+				-7,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right_Miss_Flip"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neo_bf_perspective",
+	"position": [
+		110,
+		600
+	],
+	"healthicon": "neobf",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		255,
+		153
+	],
+	"camera_position": [
+		260,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

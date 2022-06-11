@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="neogf-404.png"><SubTexture name="GF Dancing Beat Hair blowing CAR0000" x="0" y="657" width="698" height="638" frameX="-2" frameY="-29" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0001" x="0" y="657" width="698" height="638" frameX="-2" frameY="-29" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0002" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0003" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0004" x="701" y="0" width="707" height="639" frameX="-2" frameY="-28" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0005" x="701" y="0" width="707" height="639" frameX="-2" frameY="-28" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0006" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0007" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0008" x="0" y="657" width="698" height="638" frameX="-2" frameY="-29" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0009" x="0" y="657" width="698" height="638" frameX="-2" frameY="-29" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0010" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0011" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0012" x="701" y="0" width="707" height="639" frameX="-2" frameY="-28" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0013" x="701" y="0" width="707" height="639" frameX="-2" frameY="-28" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0014" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0015" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0016" x="0" y="657" width="698" height="638" frameX="-2" frameY="-29" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0017" x="0" y="657" width="698" height="638" frameX="-2" frameY="-29" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0018" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0019" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0020" x="701" y="0" width="707" height="639" frameX="-2" frameY="-28" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0021" x="701" y="0" width="707" height="639" frameX="-2" frameY="-28" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0022" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0023" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0024" x="0" y="657" width="698" height="638" frameX="-2" frameY="-29" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0025" x="0" y="657" width="698" height="638" frameX="-2" frameY="-29" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0026" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0027" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0028" x="701" y="0" width="707" height="639" frameX="-2" frameY="-28" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0029" x="701" y="0" width="707" height="639" frameX="-2" frameY="-28" frameWidth="764" frameHeight="673" />
+<SubTexture name="GF Dancing Beat Hair blowing CAR0030" x="0" y="0" width="701" height="657" frameX="-2" frameY="-10" frameWidth="764" frameHeight="673" />
+</TextureAtlas>

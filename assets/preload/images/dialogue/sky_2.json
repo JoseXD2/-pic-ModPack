@@ -1,0 +1,63 @@
+{
+	"position": [
+		110,
+		110
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "sky_2",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "BF",
+			"loop_name": "portrait an"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF",
+			"loop_name": "portrait an"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF",
+			"loop_name": "portrait an"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF",
+			"loop_name": "portrait an"
+		}
+	]
+}

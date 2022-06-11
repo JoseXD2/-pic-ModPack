@@ -1,0 +1,4 @@
+Value1 time
+Value2 how many click
+
+Credit to gene9264.

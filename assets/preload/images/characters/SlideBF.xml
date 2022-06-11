@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SlideBF.png">
+	<!-- why are you here? -->
+	<!-- sub my channel plsXDDD -->
+	<SubTexture name="BFSlideInDown0000" x="208.8" y="219.2" width="208" height="204.8" pivotX="25.85" pivotY="17.6"/>
+	<SubTexture name="BFSlideInDown0001" x="208.8" y="219.2" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInDown0002" x="417.6" y="424" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInDown0003" x="417.6" y="424" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInDown0004" x="0" y="425.2" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInDown0005" x="0" y="425.2" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInLeft0000" x="208.8" y="424.8" width="208" height="204.8" pivotX="25.85" pivotY="17.6"/>
+	<SubTexture name="BFSlideInLeft0001" x="208.8" y="424.8" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInLeft0002" x="417.6" y="629.6" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInLeft0003" x="417.6" y="629.6" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInLeft0004" x="0" y="630.8" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInLeft0005" x="0" y="630.8" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInLeft0006" x="417.6" y="629.6" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInRight0000" x="417.6" y="0" width="208" height="217.2"/>
+	<SubTexture name="BFSlideInRight0001" x="417.6" y="0" width="208" height="217.2"/>
+	<SubTexture name="BFSlideInRight0002" x="0" y="0" width="208" height="218.4"/>
+	<SubTexture name="BFSlideInRight0003" x="0" y="0" width="208" height="218.4"/>
+	<SubTexture name="BFSlideInRight0004" x="208.8" y="0" width="208" height="218.4"/>
+	<SubTexture name="BFSlideInRight0005" x="208.8" y="0" width="208" height="218.4"/>
+	<SubTexture name="BFSlideInRight0006" x="0" y="0" width="208" height="218.4"/>
+	<SubTexture name="BFSlideInRight0007" x="0" y="0" width="208" height="218.4"/>
+	<SubTexture name="BFSlideInUp0000" x="208.8" y="630.4" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInUp0001" x="208.8" y="630.4" width="208" height="204.8"/>
+	<SubTexture name="BFSlideInUp0002" x="417.6" y="218" width="208" height="205.2"/>
+	<SubTexture name="BFSlideInUp0003" x="417.6" y="218" width="208" height="205.2"/>
+	<SubTexture name="BFSlideInUp0004" x="0" y="219.2" width="208" height="205.2"/>
+	<SubTexture name="BFSlideInUp0005" x="0" y="219.2" width="208" height="205.2"/>
+	<SubTexture name="BFSlideInUp0006" x="417.6" y="218" width="208" height="205.2"/>
+	<SubTexture name="BFSlideInUp0007" x="417.6" y="218" width="208" height="205.2"/>
+	<SubTexture name="BFidle0000" x="208.8" y="424.8" width="0.1" height="0.1" frameX="0" frameY="-0" frameWidth="167.6" frameHeight="158.8"/>
+</TextureAtlas>

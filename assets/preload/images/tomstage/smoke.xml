@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="smoke.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smoke0000" x="0" y="0" width="2168" height="1875" frameX="-29" frameY="-122" frameWidth="2393" frameHeight="1999"/>
+	<SubTexture name="smoke0001" x="2170" y="0" width="2147" height="1861" frameX="-149" frameY="-86" frameWidth="2393" frameHeight="1999"/>
+</TextureAtlas>

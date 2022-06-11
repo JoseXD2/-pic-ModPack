@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cli.png"><SubTexture name="dead0000" x="338" y="0" width="194" height="194" frameX="0" frameY="0" frameWidth="195" frameHeight="195" />
+<SubTexture name="dead0001" x="338" y="0" width="194" height="194" frameX="0" frameY="0" frameWidth="195" frameHeight="195" />
+<SubTexture name="dead0002" x="194" y="278" width="166" height="154" frameX="-14" frameY="-20" frameWidth="195" frameHeight="195" />
+<SubTexture name="dead0003" x="194" y="278" width="166" height="154" frameX="-13" frameY="-19" frameWidth="195" frameHeight="195" />
+<SubTexture name="dead0004" x="338" y="194" width="93" height="57" frameX="-51" frameY="-69" frameWidth="195" frameHeight="195" />
+<SubTexture name="dead0005" x="338" y="194" width="93" height="57" frameX="-50" frameY="-68" frameWidth="195" frameHeight="195" />
+<SubTexture name="dead0006" x="431" y="194" width="56" height="15" frameX="-69" frameY="-90" frameWidth="195" frameHeight="195" />
+<SubTexture name="dead0007" x="431" y="194" width="56" height="15" frameX="-69" frameY="-89" frameWidth="195" frameHeight="195" />
+<SubTexture name="dead0008" x="487" y="194" width="29" height="9" frameX="-83" frameY="-93" frameWidth="195" frameHeight="195" />
+<SubTexture name="dead0009" x="487" y="194" width="29" height="9" frameX="-83" frameY="-92" frameWidth="195" frameHeight="195" />
+<SubTexture name="hit0000" x="0" y="0" width="338" height="278" frameX="0" frameY="0" frameWidth="338" frameHeight="278" />
+<SubTexture name="idle0000" x="0" y="278" width="194" height="194" frameX="0" frameY="0" frameWidth="195" frameHeight="195" />
+</TextureAtlas>

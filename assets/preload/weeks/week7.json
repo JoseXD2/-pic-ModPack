@@ -1,0 +1,25 @@
+{
+	"songs": [
+	  ["Green Hill", "sonichd", [49, 36, 209]],
+		["Boom", "sonichd", [49, 36, 209]],
+		["Racing", "sonichd", [49, 36, 209]]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "sonic",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"wife-forever",
+			"sky",
+			[
+				186,
+				53,
+				253
+			]
+		],
+		[
+			"sky",
+			"sky",
+			[
+				186,
+				53,
+				253
+			]
+		],
+		[
+			"manifest",
+			"sky-mad",
+			[
+				175,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"sky",
+		"bf",
+		"gf"
+	],
+	"storyName": "bf is mine bitch",
+	"weekName": "sky week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

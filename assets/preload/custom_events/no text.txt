@@ -1,0 +1,2 @@
+This removes the
+'No More Than 10 Misses' text

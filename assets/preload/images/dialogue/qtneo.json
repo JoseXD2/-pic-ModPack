@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		50
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"loop_name": "Neo bf happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo bf happy",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo bf sweat",
+			"idle_offsets": [
+				0,
+				-20
+			],
+			"idle_name": "Neo bf sweat",
+			"anim": "up",
+			"loop_offsets": [
+				0,
+				-20
+			]
+		},
+		{
+			"loop_name": "Neo bf grimace",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Neo bf grimace",
+			"anim": "left",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Neo bf angry",
+			"idle_offsets": [
+				10,
+				-20
+			],
+			"idle_name": "Neo bf angry",
+			"anim": "right",
+			"loop_offsets": [
+				10,
+				-20
+			]
+		}
+	],
+	"image": "qt-remaster"
+}

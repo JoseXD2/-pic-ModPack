@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tom.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tom down0000" x="0" y="0" width="373" height="646" frameX="0" frameY="-7" frameWidth="381" frameHeight="653"/>
+	<SubTexture name="tom down0001" x="380" y="0" width="374" height="644" frameX="0" frameY="-8" frameWidth="381" frameHeight="653"/>
+	<SubTexture name="tom idle0000" x="1540" y="0" width="463" height="705" frameX="0" frameY="-16" frameWidth="462" frameHeight="725"/>
+	<SubTexture name="tom idle0001" x="2010" y="0" width="463" height="703" frameX="0" frameY="-18" frameWidth="462" frameHeight="725"/>
+	<SubTexture name="tom idle0002" x="2480" y="0" width="463" height="701" frameX="0" frameY="-20" frameWidth="462" frameHeight="725"/>
+	<SubTexture name="tom left0000" x="1860" y="715" width="452" height="694" frameX="0" frameY="-5" frameWidth="451" frameHeight="699"/>
+	<SubTexture name="tom left0001" x="2316" y="715" width="452" height="696" frameX="0" frameY="-2" frameWidth="451" frameHeight="699"/>
+	<SubTexture name="tom right0000" x="0" y="1445" width="536" height="722"/>
+	<SubTexture name="tom right0001" x="541" y="1445" width="536" height="722" frameX="0" frameY="-1" frameWidth="535" frameHeight="722"/>
+	<SubTexture name="tom up0000" x="2131" y="1445" width="424" height="731" frameX="-21" frameY="0" frameWidth="444" frameHeight="735"/>
+	<SubTexture name="tom up0001" x="2560" y="1445" width="424" height="731" frameX="-21" frameY="0" frameWidth="444" frameHeight="735"/>
+</TextureAtlas>

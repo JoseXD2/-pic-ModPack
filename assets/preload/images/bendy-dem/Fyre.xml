@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fyre.png">
+	<!-- Optimized by NT846 -->
+	<SubTexture name="Penis instance 10000" x="0" y="0" width="1294" height="625" frameX="-1" frameY="-50" frameWidth="1297" frameHeight="685"/>
+	<SubTexture name="Penis instance 10001" x="1294" y="0" width="1295" height="615" frameX="0" frameY="-63" frameWidth="1297" frameHeight="685"/>
+</TextureAtlas>

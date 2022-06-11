@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pinkie_NOTE_splashes.png">
+<SubTexture name="note splash pinkie blue instance 10000" x="0" y="400" width="204" height="212" frameX="-94" frameY="-101" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie blue instance 10001" x="675" y="0" width="274" height="294" frameX="-44" frameY="-55" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie blue instance 10002" x="354" y="0" width="321" height="356" frameX="-17" frameY="-22" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie blue instance 10003" x="0" y="0" width="354" height="400" frameX="0" frameY="0" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie green instance 10000" x="0" y="400" width="204" height="212" frameX="-94" frameY="-99" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie green instance 10001" x="675" y="0" width="274" height="294" frameX="-44" frameY="-53" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie green instance 10002" x="354" y="0" width="321" height="356" frameX="-17" frameY="-20" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie green instance 10003" x="0" y="0" width="354" height="400" frameX="0" frameY="0" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie purple instance 10000" x="0" y="400" width="204" height="212" frameX="-94" frameY="-100" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie purple instance 10001" x="675" y="0" width="274" height="294" frameX="-44" frameY="-54" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie purple instance 10002" x="354" y="0" width="321" height="356" frameX="-17" frameY="-21" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie purple instance 10003" x="0" y="0" width="354" height="400" frameX="0" frameY="0" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie red instance 10000" x="0" y="400" width="204" height="212" frameX="-94" frameY="-99" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie red instance 10001" x="675" y="0" width="274" height="294" frameX="-44" frameY="-53" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie red instance 10002" x="354" y="0" width="321" height="356" frameX="-17" frameY="-20" frameWidth="354" frameHeight="400" />
+<SubTexture name="note splash pinkie red instance 10003" x="0" y="0" width="354" height="400" frameX="0" frameY="0" frameWidth="354" frameHeight="400" />
+</TextureAtlas>

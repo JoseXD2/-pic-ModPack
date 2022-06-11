@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fatbg.png"><SubTexture name="fatbg0000" x="0" y="0" width="1733" height="1248" frameX="-485" frameY="0" frameWidth="1733" frameHeight="1248" />
+</TextureAtlas>

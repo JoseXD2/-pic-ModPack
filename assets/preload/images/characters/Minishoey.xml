@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Minishoey.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Minishoey Sing Note DOWN0000" x="1612" y="1512" width="298" height="744" frameX="-11" frameY="0" frameWidth="312" frameHeight="744"/>
+	<SubTexture name="Minishoey Sing Note DOWN0001" x="1612" y="1512" width="298" height="744" frameX="-11" frameY="0" frameWidth="312" frameHeight="744"/>
+	<SubTexture name="Minishoey Sing Note DOWN0002" x="1305" y="0" width="307" height="740" frameX="0" frameY="-2" frameWidth="312" frameHeight="744"/>
+	<SubTexture name="Minishoey Sing Note DOWN0003" x="1305" y="0" width="307" height="740" frameX="0" frameY="-2" frameWidth="312" frameHeight="744"/>
+	<SubTexture name="Minishoey Sing Note LEFT0000" x="344" y="0" width="328" height="753" frameX="-7" frameY="-7" frameWidth="335" frameHeight="760"/>
+	<SubTexture name="Minishoey Sing Note LEFT0001" x="344" y="0" width="328" height="753" frameX="-7" frameY="-7" frameWidth="335" frameHeight="760"/>
+	<SubTexture name="Minishoey Sing Note LEFT0002" x="344" y="753" width="323" height="749"/>
+	<SubTexture name="Minishoey Sing Note LEFT0003" x="344" y="753" width="323" height="749"/>
+	<SubTexture name="Minishoey Sing Note RIGHT0000" x="0" y="1520" width="333" height="755" frameX="0" frameY="-6" frameWidth="341" frameHeight="761"/>
+	<SubTexture name="Minishoey Sing Note RIGHT0001" x="0" y="1520" width="333" height="755" frameX="0" frameY="-6" frameWidth="341" frameHeight="761"/>
+	<SubTexture name="Minishoey Sing Note RIGHT0002" x="992" y="1513" width="307" height="754" frameX="-5" frameY="0" frameWidth="341" frameHeight="761"/>
+	<SubTexture name="Minishoey Sing Note RIGHT0003" x="992" y="1513" width="307" height="754" frameX="-5" frameY="0" frameWidth="341" frameHeight="761"/>
+	<SubTexture name="Minishoey Sing Note UP0000" x="0" y="0" width="344" height="759" frameX="-2" frameY="-13" frameWidth="345" frameHeight="771"/>
+	<SubTexture name="Minishoey Sing Note UP0001" x="0" y="0" width="344" height="759" frameX="-2" frameY="-13" frameWidth="345" frameHeight="771"/>
+	<SubTexture name="Minishoey Sing Note UP0002" x="0" y="759" width="336" height="761" frameX="0" frameY="0" frameWidth="345" frameHeight="771"/>
+	<SubTexture name="Minishoey Sing Note UP0003" x="0" y="759" width="336" height="761" frameX="0" frameY="0" frameWidth="345" frameHeight="771"/>
+	<SubTexture name="Minishoey idle dance0000" x="992" y="757" width="309" height="756" frameX="-28" frameY="-2" frameWidth="331" frameHeight="757"/>
+	<SubTexture name="Minishoey idle dance0001" x="672" y="757" width="330" height="757" frameX="-15" frameY="-1" frameWidth="331" frameHeight="757"/>
+	<SubTexture name="Minishoey idle dance0002" x="672" y="0" width="320" height="757"/>
+	<SubTexture name="Minishoey idle dance0003" x="344" y="1502" width="320" height="757"/>
+	<SubTexture name="Minishoey idle dance0004" x="672" y="1514" width="318" height="757"/>
+	<SubTexture name="Minishoey idle dance0005" x="992" y="0" width="313" height="757" frameX="-1" frameY="0" frameWidth="331" frameHeight="757"/>
+	<SubTexture name="Minishoey idle dance0006" x="1305" y="740" width="305" height="756" frameX="-4" frameY="0" frameWidth="331" frameHeight="757"/>
+	<SubTexture name="Minishoey idle dance0007" x="1305" y="1496" width="301" height="756" frameX="-11" frameY="0" frameWidth="331" frameHeight="757"/>
+	<SubTexture name="Minishoey idle dance0008" x="1612" y="756" width="298" height="756" frameX="-20" frameY="-1" frameWidth="331" frameHeight="757"/>
+	<SubTexture name="Minishoey idle dance0009" x="1612" y="756" width="298" height="756" frameX="-26" frameY="-1" frameWidth="331" frameHeight="757"/>
+	<SubTexture name="Minishoey idle dance0010" x="1612" y="0" width="298" height="756" frameX="-29" frameY="-2" frameWidth="331" frameHeight="757"/>
+	<SubTexture name="Minishoey idle dance0011" x="1612" y="0" width="298" height="756" frameX="-30" frameY="-2" frameWidth="331" frameHeight="757"/>
+	<SubTexture name="Minishoey idle dance0012" x="1612" y="0" width="298" height="756" frameX="-30" frameY="-2" frameWidth="331" frameHeight="757"/>
+</TextureAtlas>

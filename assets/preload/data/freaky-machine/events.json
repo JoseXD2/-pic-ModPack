@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "BendyTA",
+		"player1": "bf",
+		"player2": "bendy",
+		"player3": null,
+		"events": [
+			[
+				32538.4615384615,
+				[
+					[
+						"Play Animation",
+						"you",
+						"bendy"
+					]
+				]
+			],
+			[
+				77423.0769230769,
+				[
+					[
+						"Change Character",
+						"1",
+						"bendynegr"
+					]
+				]
+			],
+			[
+				79638.4615384615,
+				[
+					[
+						"Trigger BG Ghouls",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82338.4615384615,
+				[
+					[
+						"Change Character",
+						"1",
+						"bendymalo"
+					]
+				]
+			],
+			[
+				82488.4615384615,
+				[
+					[
+						"Trigger BG Ghouls",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				143838.461538462,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"bendy"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfno",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Freaky-Machine"
+	}
+}

@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				29,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sleep",
+			"loop": false,
+			"name": "BF z"
+		},
+		{
+			"offsets": [
+				6,
+				-69
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sleep-loop",
+			"loop": true,
+			"name": "BF sleep"
+		},
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "no bone",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-25,
+				-72
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BF NOTE DOWN"
+		},
+		{
+			"offsets": [
+				38,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-14,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BF NOTE UP"
+		},
+		{
+			"offsets": [
+				37,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				38,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "BF NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-37,
+				-66
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "BF NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-39,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "BF NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-1,
+				24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "BF NOTE UP"
+		},
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt start",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-4,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				-2,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "look up",
+			"loop": false,
+			"name": "BF HEY!!"
+		},
+		{
+			"offsets": [
+				1,
+				-35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "wake up",
+			"loop": false,
+			"name": "BF wake up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfchristmas",
+	"position": [
+		40,
+		300
+	],
+	"healthicon": "bfneobf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		10,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

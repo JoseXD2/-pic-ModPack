@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"ChallengEdd-Fucked",
+			"edd",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"difficulties": "Fucked",
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf"
+	],
+	"storyName": "EddsWorld FUCKED",
+	"weekName": "Challenge-Edd FUCKED",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

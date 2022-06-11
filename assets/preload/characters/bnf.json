@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bob Idle"
+		},
+		{
+			"offsets": [
+				-38,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bob Left0"
+		},
+		{
+			"offsets": [
+				-9,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BobRight0"
+		},
+		{
+			"offsets": [
+				-56,
+				-45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bob Down0"
+		},
+		{
+			"offsets": [
+				57,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bob Up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Minecraft_Bob",
+	"position": [
+		-90,
+		-210
+	],
+	"healthicon": "bnf",
+	"flip_x": true,
+	"healthbar_colors": [
+		243,
+		228,
+		28
+	],
+	"camera_position": [
+		-20,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

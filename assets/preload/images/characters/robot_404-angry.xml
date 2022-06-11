@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="robot_404-angry.png">
+<SubTexture name="KB_Down0000" x="603" y="1558" width="725" height="591" frameX="-63" frameY="-11" frameWidth="876" frameHeight="602" />
+<SubTexture name="KB_Down0001" x="1328" y="1558" width="748" height="589" frameX="-61" frameY="-13" frameWidth="876" frameHeight="602" />
+<SubTexture name="KB_Left0000" x="0" y="792" width="760" height="766" frameX="-45" frameY="-49" frameWidth="814" frameHeight="826" />
+<SubTexture name="KB_Left0001" x="760" y="792" width="757" height="765" frameX="-39" frameY="-50" frameWidth="814" frameHeight="826" />
+<SubTexture name="KB_Right0000" x="0" y="1558" width="603" height="605" frameX="-60" frameY="-13" frameWidth="667" frameHeight="648" />
+<SubTexture name="KB_Right0001" x="1650" y="656" width="595" height="606" frameX="-56" frameY="-12" frameWidth="667" frameHeight="648" />
+<SubTexture name="KB_Up0000" x="0" y="0" width="826" height="792" frameX="-42" frameY="-38" frameWidth="904" frameHeight="830" />
+<SubTexture name="KB_Up0001" x="826" y="0" width="824" height="783" frameX="-41" frameY="-47" frameWidth="904" frameHeight="830" />
+<SubTexture name="KB_idleBabyRage0000" x="1650" y="0" width="810" height="656" frameX="-73" frameY="-19" frameWidth="953" frameHeight="676" />
+</TextureAtlas>

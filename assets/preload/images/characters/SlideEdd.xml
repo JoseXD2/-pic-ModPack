@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SlideEdd.png">
+	<!-- why are you here? -->
+	<!-- sub my channel plsXDDD -->
+	<SubTexture name="EddEnterDown0000" x="0" y="0" width="200" height="175.2" pivotX="0" pivotY="0"/>
+	<SubTexture name="EddEnterDown0001" x="0" y="0" width="200" height="175.2"/>
+	<SubTexture name="EddEnterDown0002" x="200.8" y="0" width="200" height="175.2"/>
+	<SubTexture name="EddEnterDown0003" x="200.8" y="0" width="200" height="175.2"/>
+	<SubTexture name="EddEnterDown0004" x="401.6" y="0" width="200" height="175.2"/>
+	<SubTexture name="EddEnterLeft0000" x="602.4" y="0" width="200" height="175.2" pivotX="0" pivotY="0"/>
+	<SubTexture name="EddEnterLeft0001" x="602.4" y="0" width="200" height="175.2"/>
+	<SubTexture name="EddEnterLeft0002" x="0" y="176" width="200" height="175.2"/>
+	<SubTexture name="EddEnterLeft0003" x="0" y="176" width="200" height="175.2"/>
+	<SubTexture name="EddEnterLeft0004" x="200.8" y="176" width="200" height="175.2"/>
+	<SubTexture name="EddEnterRight0000" x="401.6" y="176" width="200" height="175.2" pivotX="0" pivotY="0"/>
+	<SubTexture name="EddEnterRight0001" x="401.6" y="176" width="200" height="175.2"/>
+	<SubTexture name="EddEnterRight0002" x="602.4" y="176" width="200" height="175.2"/>
+	<SubTexture name="EddEnterRight0003" x="602.4" y="176" width="200" height="175.2"/>
+	<SubTexture name="EddEnterRight0004" x="0" y="352" width="200" height="175.2"/>
+	<SubTexture name="EddEnterUp0000" x="200.8" y="352" width="200" height="175.2" pivotX="0" pivotY="0"/>
+	<SubTexture name="EddEnterUp0001" x="200.8" y="352" width="200" height="175.2"/>
+	<SubTexture name="EddEnterUp0002" x="401.6" y="352" width="200" height="175.2"/>
+	<SubTexture name="EddEnterUp0003" x="401.6" y="352" width="200" height="175.2"/>
+	<SubTexture name="EddEnterUp0004" x="602.4" y="352" width="200" height="175.2"/>
+</TextureAtlas>

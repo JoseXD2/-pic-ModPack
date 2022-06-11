@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hj.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hj down0000" x="0" y="0" width="1138" height="1119" frameX="-25" frameY="-41" frameWidth="1137" frameHeight="1132"/>
+	
+	<SubTexture name="hj idle0000" x="1240" y="0" width="1107" height="1153" frameX="0" frameY="-31" frameWidth="1113" frameHeight="1174"/>
+	
+	<SubTexture name="hj left0000" x="0" y="1156" width="1459" height="1293" frameX="0" frameY="0" frameWidth="1456" frameHeight="1287"/>
+	
+	<SubTexture name="hj right0000" x="1472" y="1162" width="1093" height="1109" frameX="-15" frameY="0" frameWidth="1169" frameHeight="1142"/>
+
+	<SubTexture name="hj up0000" x="2580" y="0" width="969" height="1287" frameX="0" frameY="0" frameWidth="985" frameHeight="1279"/>
+	
+</TextureAtlas>

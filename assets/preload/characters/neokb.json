@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "neokb0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "neokb left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "neokb down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				17
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "neokb up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-21
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "neokb right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/neokb",
+	"position": [
+		-390,
+		260
+	],
+	"healthicon": "neokb",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		170,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

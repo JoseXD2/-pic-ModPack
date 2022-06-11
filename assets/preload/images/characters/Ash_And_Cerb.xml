@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ash_And_Cerb.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ashncerb idle 0000" x="0" y="0" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0001" x="0" y="0" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0002" x="885" y="0" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0003" x="885" y="0" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0004" x="1770" y="0" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0005" x="1770" y="0" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0006" x="0" y="782" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0007" x="0" y="782" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0008" x="885" y="782" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0009" x="885" y="782" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0010" x="1770" y="782" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0011" x="1770" y="782" width="885" height="782"/>
+	<SubTexture name="ashncerb idle 0012" x="852" y="1564" width="854" height="759"/>
+	<SubTexture name="ashncerb idle 0013" x="852" y="1564" width="854" height="759"/>
+	<SubTexture name="ashncerb idle 0014" x="2" y="2385" width="797" height="802"/>
+	<SubTexture name="ashncerb idle 0015" x="2" y="2385" width="797" height="802"/>
+	<SubTexture name="ashncerb idle 0016" x="2" y="3148" width="960" height="763"/>
+	<SubTexture name="ashncerb idle 0017" x="2" y="3148" width="960" height="763"/>
+	<SubTexture name="ash down note 0000" x="2655" y="782" width="854" height="759"/> 
+	<SubTexture name="ash down note 0001" x="2655" y="782" width="854" height="759"/>
+	<SubTexture name="ash down note 0002" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0003" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0004" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0005" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0006" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0007" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0008" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0009" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0010" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0011" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0012" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0013" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="ash down note 0014" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0000" x="2655" y="782" width="854" height="759"/>
+	<SubTexture name="cerb down note 0001" x="2655" y="782" width="854" height="759"/>
+	<SubTexture name="cerb down note 0002" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0003" x="0" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0004" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0005" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0006" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0007" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0008" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0009" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0010" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0011" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0012" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0013" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="cerb down note 0014" x="854" y="1564" width="854" height="759"/>
+	<SubTexture name="ash left note 0000" x="1708" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0001" x="1708" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0002" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0003" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0004" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0005" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0006" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0007" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0008" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0009" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0010" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0011" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0012" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0013" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0014" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="ash left note 0015" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="cerb left note 0000" x="1708" y="1564" width="797" height="802"/>
+	<SubTexture name="cerb left note 0001" x="1708" y="1564" width="797" height="802"/>
+	<SubTexture name="cerb left note 0002" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="cerb left note 0003" x="2505" y="1564" width="797" height="802"/>
+	<SubTexture name="cerb left note 0004" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0005" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0006" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0007" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0008" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0009" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0010" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0011" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0012" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0013" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0014" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="cerb left note 0015" x="0" y="2366" width="797" height="802"/>
+	<SubTexture name="ash right note 0000" x="797" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0001" x="797" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0002" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0003" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0004" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0005" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0006" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0007" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0008" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0009" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0010" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0011" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0012" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0013" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0014" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="ash right note 0015" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="cerb right note 0000" x="797" y="2366" width="960" height="763"/>
+	<SubTexture name="cerb right note 0001" x="797" y="2366" width="960" height="763"/>
+	<SubTexture name="cerb right note 0002" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="cerb right note 0003" x="1757" y="2366" width="960" height="763"/>
+	<SubTexture name="cerb right note 0004" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0005" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0006" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0007" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0008" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0009" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0010" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0011" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0012" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0013" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0014" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="cerb right note 0015" x="0" y="3168" width="960" height="763"/>
+	<SubTexture name="ash up note 0000" x="960" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0001" x="960" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0002" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0003" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0004" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0005" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0006" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0007" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0008" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0009" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0010" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0011" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0012" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="ash up note 0013" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0000" x="960" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0001" x="960" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0002" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0003" x="1760" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0004" x="2560" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0005" x="2560" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0006" x="2560" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0007" x="2560" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0008" x="2560" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0009" x="2560" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0010" x="2560" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0011" x="2560" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0012" x="2560" y="3168" width="800" height="809"/>
+	<SubTexture name="cerb up note 0013" x="2560" y="3168" width="800" height="809"/>
+</TextureAtlas>

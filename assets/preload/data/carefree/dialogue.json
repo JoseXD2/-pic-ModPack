@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "new1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Come on! Follow me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "new1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ehh...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "new1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We'll have fun i promise-!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "new2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hi!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "new2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh hey.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "new2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My name is Q-T, and I would like if you know someone named boyfriend!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "new3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's me! So what do you want?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "new3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A battle!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "new3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Of course!"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "new3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We can never spend time..."
+		}
+	]
+}

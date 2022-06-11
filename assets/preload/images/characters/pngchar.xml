@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neoamelia.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Amelia_Chuckle0000" x="4" y="4" width="1348" height="1141" frameX="0" frameY="0" frameWidth="1348" frameHeight="1143"/>
+	<SubTexture name="Amelia_Chuckle0001" x="4" y="4" width="1348" height="1141" frameX="0" frameY="0" frameWidth="1348" frameHeight="1143"/>
+	<SubTexture name="Amelia_Chuckle0002" x="1354" y="4" width="1348" height="1141" frameX="0" frameY="-2" frameWidth="1348" frameHeight="1143"/>
+	<SubTexture name="Amelia_Chuckle0003" x="1354" y="4" width="1348" height="1141" frameX="0" frameY="-2" frameWidth="1348" frameHeight="1143"/>
+</TextureAtlas>

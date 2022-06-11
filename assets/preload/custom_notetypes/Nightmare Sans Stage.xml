@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nightmare Sans Stage.png">
+	<!-- Optimized by NT846 -->
+	<SubTexture name="Normal instance 10000" x="1932" y="2176" width="0" height="0"/>
+	<SubTexture name="Normal instance 10001" x="1932" y="1088" width="0" height="0"/>
+	<SubTexture name="Normal instance 10002" x="0" y="2176" width="0" height="0"/>
+	<SubTexture name="Normal instance 10003" x="0" y="1088" width="0" height="0"/>
+	<SubTexture name="Normal instance 10004" x="1932" y="0" width="0" height="0"/>
+	<SubTexture name="Normal instance 10005" x="0" y="0" width="0" height="0"/>
+	<SubTexture name="dd instance 10000" x="3864" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="sdfs instance 10000" x="3864" y="1085" width="0" height="0"/>
+</TextureAtlas>

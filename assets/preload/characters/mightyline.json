@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				2
+			],
+			"anim": "speak",
+			"fps": 24,
+			"name": "MightyLine",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MightyLine",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MightySpeaks",
+	"position": [
+		110,
+		300
+	],
+	"healthicon": "sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		45,
+		123
+	],
+	"camera_position": [
+		60,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skelliebros.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Skellies Dance0000" x="5" y="5" width="679" height="359" frameX="0" frameY="-9" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0001" x="5" y="5" width="679" height="359" frameX="0" frameY="-9" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0002" x="699" y="5" width="670" height="362" frameX="-4" frameY="-6" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0003" x="699" y="5" width="670" height="362" frameX="-4" frameY="-6" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0004" x="1384" y="5" width="669" height="364" frameX="-5" frameY="-4" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0005" x="1384" y="5" width="669" height="364" frameX="-5" frameY="-4" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0006" x="2068" y="5" width="669" height="367" frameX="-5" frameY="-1" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0007" x="2068" y="5" width="669" height="367" frameX="-5" frameY="-1" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0008" x="2752" y="5" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0009" x="2752" y="5" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0010" x="2752" y="5" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0011" x="2752" y="5" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0012" x="2752" y="5" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Dance0013" x="2752" y="5" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="Skellies Transform0000" x="5" y="388" width="669" height="368" frameX="-25" frameY="-26" frameWidth="724" frameHeight="423"/>
+	<SubTexture name="Skellies Transform0001" x="689" y="388" width="690" height="389" frameX="-17" frameY="-17" frameWidth="724" frameHeight="423"/>
+	<SubTexture name="Skellies Transform0002" x="1394" y="388" width="706" height="405" frameX="-9" frameY="-9" frameWidth="724" frameHeight="423"/>
+	<SubTexture name="Skellies Transform0003" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0004" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0005" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0006" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0007" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0008" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0009" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0010" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0011" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0012" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="Skellies Transform0013" x="2115" y="388" width="724" height="423"/>
+	<SubTexture name="SkelliesE Dance0000" x="2854" y="388" width="679" height="359" frameX="0" frameY="-9" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0001" x="2854" y="388" width="679" height="359" frameX="0" frameY="-9" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0002" x="5" y="826" width="670" height="362" frameX="-4" frameY="-6" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0003" x="5" y="826" width="670" height="362" frameX="-4" frameY="-6" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0004" x="690" y="826" width="669" height="364" frameX="-5" frameY="-4" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0005" x="690" y="826" width="669" height="364" frameX="-5" frameY="-4" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0006" x="1374" y="826" width="669" height="367" frameX="-5" frameY="-1" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0007" x="1374" y="826" width="669" height="367" frameX="-5" frameY="-1" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0008" x="2058" y="826" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0009" x="2058" y="826" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0010" x="2058" y="826" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0011" x="2058" y="826" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0012" x="2058" y="826" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+	<SubTexture name="SkelliesE Dance0013" x="2058" y="826" width="669" height="368" frameX="-5" frameY="0" frameWidth="679" frameHeight="368"/>
+</TextureAtlas>

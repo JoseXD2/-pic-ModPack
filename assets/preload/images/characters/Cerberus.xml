@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cerberus.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cerberus Sing Note DOWN 0000" x="1606" y="465" width="520" height="464" frameX="-4" frameY="0" frameWidth="530" frameHeight="465"/>
+	<SubTexture name="Cerberus Sing Note DOWN 0001" x="1606" y="465" width="520" height="464" frameX="-4" frameY="0" frameWidth="530" frameHeight="465"/>
+	<SubTexture name="Cerberus Sing Note DOWN 0002" x="1082" y="478" width="524" height="462" frameX="0" frameY="-1" frameWidth="530" frameHeight="465"/>
+	<SubTexture name="Cerberus Sing Note DOWN 0003" x="1082" y="478" width="524" height="462" frameX="0" frameY="-1" frameWidth="530" frameHeight="465"/>
+	<SubTexture name="Cerberus Sing Note LEFT 0000" x="1606" y="0" width="521" height="465" frameX="-9" frameY="0" frameWidth="530" frameHeight="465"/>
+	<SubTexture name="Cerberus Sing Note LEFT 0001" x="1606" y="0" width="521" height="465" frameX="-9" frameY="0" frameWidth="530" frameHeight="465"/>
+	<SubTexture name="Cerberus Sing Note LEFT 0002" x="2127" y="1389" width="506" height="462" frameX="0" frameY="-2" frameWidth="530" frameHeight="465"/>
+	<SubTexture name="Cerberus Sing Note LEFT 0003" x="2127" y="1389" width="506" height="462" frameX="0" frameY="-2" frameWidth="530" frameHeight="465"/>
+	<SubTexture name="Cerberus Sing Note RIGHT 0000" x="1082" y="1404" width="521" height="464" frameX="-37" frameY="0" frameWidth="579" frameHeight="464"/>
+	<SubTexture name="Cerberus Sing Note RIGHT 0001" x="1082" y="1404" width="521" height="464" frameX="-37" frameY="0" frameWidth="579" frameHeight="464"/>
+	<SubTexture name="Cerberus Sing Note RIGHT 0002" x="0" y="0" width="548" height="463"/>
+	<SubTexture name="Cerberus Sing Note RIGHT 0003" x="0" y="0" width="548" height="463"/>
+	<SubTexture name="Cerberus Sing Note UP 0000" x="1082" y="940" width="521" height="464" frameX="-8" frameY="-17" frameWidth="537" frameHeight="481"/>
+	<SubTexture name="Cerberus Sing Note UP 0001" x="1082" y="940" width="521" height="464" frameX="-8" frameY="-17" frameWidth="537" frameHeight="481"/>
+	<SubTexture name="Cerberus Sing Note UP 0002" x="1082" y="0" width="524" height="478"/>
+	<SubTexture name="Cerberus Sing Note UP 0003" x="1082" y="0" width="524" height="478"/>
+	<SubTexture name="Cerberus idle dance 0000" x="0" y="925" width="541" height="462" frameX="0" frameY="-14" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0001" x="0" y="1387" width="539" height="463" frameX="-7" frameY="-11" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0002" x="548" y="463" width="533" height="462" frameX="-29" frameY="-3" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0003" x="548" y="1388" width="524" height="462" frameX="-30" frameY="0" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0004" x="1606" y="1392" width="515" height="463" frameX="-27" frameY="0" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0005" x="2127" y="926" width="507" height="463" frameX="-27" frameY="0" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0006" x="2127" y="463" width="509" height="463" frameX="-27" frameY="-1" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0007" x="2127" y="0" width="511" height="463" frameX="-27" frameY="-4" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0008" x="1606" y="929" width="516" height="463" frameX="-27" frameY="-7" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0009" x="548" y="925" width="525" height="463" frameX="-30" frameY="-10" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0010" x="548" y="0" width="534" height="463" frameX="-29" frameY="-12" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0011" x="548" y="0" width="534" height="463" frameX="-7" frameY="-14" frameWidth="577" frameHeight="477"/>
+	<SubTexture name="Cerberus idle dance 0012" x="0" y="463" width="541" height="463" frameX="0" frameY="-14" frameWidth="577" frameHeight="477"/>
+</TextureAtlas>

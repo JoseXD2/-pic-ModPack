@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="anders.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Anders Sing Note DOWN 0000" x="0" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0001" x="0" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0002" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0003" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0004" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0005" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0006" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0007" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0008" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0009" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0010" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0011" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0012" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0013" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0014" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0015" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note DOWN 0016" x="586" y="0" width="586" height="717"/>
+	<SubTexture name="Anders Sing Note LEFT 0000" x="1172" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0001" x="1172" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0002" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0003" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0004" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0005" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0006" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0007" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0008" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0009" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0010" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0011" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0012" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0013" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0014" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0015" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note LEFT 0016" x="1950" y="0" width="778" height="749"/>
+	<SubTexture name="Anders Sing Note RIGHT 0000" x="2728" y="0" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0001" x="2728" y="0" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0002" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0003" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0004" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0005" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0006" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0007" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0008" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0009" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0010" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0011" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0012" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0013" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0014" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0015" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note RIGHT 0016" x="0" y="771" width="689" height="771"/>
+	<SubTexture name="Anders Sing Note UP 0000" x="689" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0001" x="689" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0002" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0003" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0004" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0005" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0006" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0007" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0008" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0009" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0010" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0011" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0012" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0013" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0014" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0015" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders Sing Note UP 0016" x="1328" y="771" width="639" height="934"/>
+	<SubTexture name="Anders idle dance 0000" x="1967" y="771" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0001" x="2544" y="771" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0002" x="2544" y="771" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0003" x="3121" y="771" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0004" x="3121" y="771" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0005" x="0" y="1705" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0006" x="0" y="1705" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0007" x="577" y="1705" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0008" x="577" y="1705" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0009" x="1154" y="1705" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0010" x="1154" y="1705" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0011" x="1731" y="1705" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0012" x="1731" y="1705" width="577" height="738"/>
+	<SubTexture name="Anders idle dance 0013" x="1731" y="1705" width="577" height="738"/>
+</TextureAtlas>

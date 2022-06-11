@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NightmareSky.png">
+	<!-- Optimized by NT846 -->
+	<SubTexture name="NightmareSkyDown0000" x="1563" y="1279" width="408" height="515"/>
+	<SubTexture name="NightmareSkyDown0001" x="1155" y="1279" width="408" height="515"/>
+	<SubTexture name="NightmareSkyDown0002" x="747" y="1279" width="408" height="515"/>
+	<SubTexture name="NightmareSkyIdle0000" x="367" y="1279" width="380" height="619"/>
+	<SubTexture name="NightmareSkyLeft0000" x="888" y="639" width="444" height="640"/>
+	<SubTexture name="NightmareSkyLeft0001" x="444" y="639" width="444" height="640"/>
+	<SubTexture name="NightmareSkyLeft0002" x="0" y="639" width="444" height="640"/>
+	<SubTexture name="NightmareSkyRight0000" x="942" y="0" width="471" height="639"/>
+	<SubTexture name="NightmareSkyRight0001" x="471" y="0" width="471" height="639"/>
+	<SubTexture name="NightmareSkyRight0002" x="0" y="0" width="471" height="639"/>
+	<SubTexture name="NightmareSkyUp0000" x="0" y="1279" width="367" height="690"/>
+	<SubTexture name="NightmareSkyUp0001" x="1780" y="0" width="367" height="690"/>
+	<SubTexture name="NightmareSkyUp0002" x="1413" y="0" width="367" height="690"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+Gun mechanic in neo censory overload.
+
+V1 is the time to dodge.
+
+2.5 is the normal time. (Recommended)
+
+Also this automatically calls the dodge button.
+
+(ALSO YES AETHERLYNX I USED YOUR CODE AND EDITED IT A LITTLE BIT)

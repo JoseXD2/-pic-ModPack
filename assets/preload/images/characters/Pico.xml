@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico alt idle0000" x="0" y="577" width="417" height="575" frameX="0" frameY="-5" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0001" x="0" y="2295" width="399" height="572" frameX="-8" frameY="-8" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0002" x="1174" y="1169" width="384" height="581" frameX="-18" frameY="-1" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0003" x="1174" y="1169" width="384" height="581" frameX="-18" frameY="-1" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0004" x="771" y="2305" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0005" x="771" y="2305" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0006" x="778" y="2889" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0007" x="778" y="2889" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0008" x="778" y="2889" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0009" x="778" y="2889" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0010" x="380" y="2869" width="389" height="578" frameX="-13" frameY="-10" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0011" x="1192" y="0" width="380" height="570" frameX="-22" frameY="-16" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0012" x="1158" y="1754" width="383" height="583" frameX="-23" frameY="-1" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0013" x="1158" y="1754" width="383" height="583" frameX="-23" frameY="-1" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0014" x="788" y="1169" width="384" height="583" frameX="-18" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0015" x="788" y="1169" width="384" height="583" frameX="-18" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0016" x="778" y="2889" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0017" x="778" y="2889" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0018" x="778" y="2889" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico alt idle0019" x="778" y="2889" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0000" x="0" y="0" width="417" height="575" frameX="0" frameY="-5" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0001" x="0" y="1721" width="399" height="572" frameX="-8" frameY="-8" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0002" x="806" y="0" width="384" height="581" frameX="-18" frameY="-1" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0003" x="806" y="0" width="384" height="581" frameX="-18" frameY="-1" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0004" x="391" y="3449" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0005" x="391" y="3449" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0006" x="401" y="1721" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0007" x="401" y="1721" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0008" x="401" y="1721" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0009" x="401" y="1721" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0010" x="0" y="3471" width="389" height="578" frameX="-13" frameY="-10" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0011" x="1190" y="583" width="380" height="570" frameX="-22" frameY="-16" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0012" x="805" y="584" width="383" height="583" frameX="-23" frameY="-1" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0013" x="805" y="584" width="383" height="583" frameX="-23" frameY="-1" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0014" x="419" y="584" width="384" height="583" frameX="-18" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0015" x="419" y="584" width="384" height="583" frameX="-18" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0016" x="401" y="1721" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0017" x="401" y="1721" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0018" x="401" y="1721" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico idle0019" x="401" y="1721" width="385" height="582" frameX="-17" frameY="0" frameWidth="417" frameHeight="588"/>
+	<SubTexture name="pico offended0000" x="0" y="1154" width="408" height="565" frameX="0" frameY="-42" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0001" x="0" y="1154" width="408" height="565" frameX="0" frameY="-42" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0002" x="0" y="2869" width="378" height="600" frameX="-23" frameY="0" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0003" x="0" y="2869" width="378" height="600" frameX="-23" frameY="0" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0004" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0005" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0006" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0007" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0008" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0009" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0010" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0011" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0012" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0013" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0014" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0015" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0016" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0017" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0018" x="419" y="0" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0019" x="419" y="0" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0020" x="419" y="0" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0021" x="419" y="0" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0022" x="419" y="0" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0023" x="419" y="0" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0024" x="419" y="0" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0025" x="419" y="0" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0026" x="419" y="0" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0027" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0028" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0029" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0030" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0031" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0032" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0033" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0034" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0035" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+	<SubTexture name="pico offended0036" x="778" y="3473" width="385" height="582" frameX="-13" frameY="-17" frameWidth="408" frameHeight="607"/>
+</TextureAtlas>
